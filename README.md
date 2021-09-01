@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Full Stack Web and App Development
 
-📫 Email: 81757839+vrw-GH@users.noreply.github.com
+📫 Email: victor.wright@outlook.de
 
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
