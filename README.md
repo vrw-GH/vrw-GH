@@ -1,9 +1,9 @@
 
-👋 Hi, I’m @vrw-GH
+👋 Hi, I’m Victor Wright (on GitHub @vrw-GH)
 
 👀 I’m interested in All Things IT
 
-🌱 I’m currently learning Full Stack Web and App Development
+🌱 I’m currently learning Full Stack Web and App Development at WBS Coding School
 
 📫 Email: victor.wright@outlook.de
 
