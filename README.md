@@ -1,14 +1,11 @@
 
 👋 Hi, I’m Victor Wright (on GitHub @vrw-GH)
 
-👀 I’m interested in All Things IT
-
-🌱 I’m currently learning Full Stack Web and App Development at WBS Coding School
+I’m interested in All Things IT
+I’m currently learning Full Stack Web and App Development at WBS Coding School
 
 📫 Email: victor.wright@outlook.de
-
-
-website: http://www.wrightsdesk.com
+website: https://vrw-gh.github.io/Victor-Wright-Profile/
 
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
