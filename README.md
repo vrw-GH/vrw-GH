@@ -8,7 +8,7 @@
 📫 Email: victor.wright@outlook.de
 
 
-website: `<a href="http:\\www.wrightsweb.com" target="_blank">wrightsweb</>`
+website: {http:\\www.wrightsweb.com}target="_blank"
 
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
