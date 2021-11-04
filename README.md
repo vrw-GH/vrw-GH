@@ -8,7 +8,7 @@ I’m currently learning Full Stack Web and App Development at WBS Coding School
 📫 Email: victor.wright@outlook.de
 
 <a href="https://vrw-gh.github.io/Victor-Wright-Profile/" target="_blank">
-    <button>My GitHub Page</button>
+    <button>My Site on GH Pages</button>
 </a>
 
 <!---
