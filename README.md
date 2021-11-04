@@ -1,6 +1,6 @@
 
 
-<a href="https://vrw-gh.github.io/Victor-Wright-Profile/">
+<a href="https://vrw-gh.github.io/Victor-Wright-Profile/" target="_blank">
     <button>My GitHub Page</button>
 </a>
 
