@@ -12,10 +12,10 @@ Contact me:
 <br/>
 📲 Mobile: +176 4677 4278
 
-Some of my projects to date:-
+# Some of my projects to date:-
+<strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 
 <ul>
-WBS Coding School Bootcamp - Batch #20 (Sep-2021)
 <li><a href="https://condescending-wilson-ebe840.netlify.app/" target="_blank">
     <button>My Hacker News (Coding project)</button>
 </a></li>
