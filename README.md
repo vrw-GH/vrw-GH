@@ -12,21 +12,20 @@ Contact me:
 <br/>
 📲 Mobile: +176 4677 4278
 
-# Some of my projects to date:-
-<strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
-
+<strong> Some of my projects to date:-
+WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
-<li><a href="https://condescending-wilson-ebe840.netlify.app/" target="_blank">
-    <button>My Hacker News (Coding project)</button>
-</a></li>
-<li><a href="https://avc-food-blog.herokuapp.com/" target="_blank">
-    <button>Backend API for group project (Contentful with Backend project)</button>
+<li><a href="https://" target="_blank">
+    <button>FINAL Project (Share Your Food)</button>
 </a></li>
 <li><a href="https://vigilant-turing-554418.netlify.app/" target="_blank">
     <button>Group project (The Recipe Book)</button>
 </a></li>
-<li><a href="https://" target="_blank">
-    <button>FINAL Project (Share Your Food)</button>
+<li><a href="https://avc-food-blog.herokuapp.com/" target="_blank">
+    <button>Backend API for group project (Contentful with Backend project)</button>
+</a></li>
+<li><a href="https://condescending-wilson-ebe840.netlify.app/" target="_blank">
+    <button>My Hacker News (Coding project)</button>
 </a></li>
 </ul>
 
