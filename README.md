@@ -7,11 +7,10 @@ Full Stack App & Web Developer specializing in Javascript: React, Express, Postg
 With over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 
 <h3>Connect with me:</h3>
-<br/>
-<a href="https://www.linkedin.com/in/victor-wright-4a171427/" target="_blank">
-    <button>linkedin</button>
+
+On Linkedin: <a href="https://www.linkedin.com/in/victor-wright-4a171427/" target="_blank">
+    <button>Victor Wright</button>
 </a>
- 
 
 <br/>
 📫 Email: victor.wright@outlook.de
