@@ -1,6 +1,6 @@
 # Hello, I am Victor Wright.
 <h5>< < < I’m interested in IT... Space... Gadgets... > > ></h5>
-(on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/Victor-Wright-Profile/" target="_blank">
+(on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
     <button>Open my profile on GH Pages</button>
 </a>
 
@@ -15,7 +15,7 @@ Specializing in
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 
 <h3>Connect with me:</h3>
-On Linkedin: <a href="https://www.linkedin.com/in/victor-wright-4a171427/" target="_blank">
+On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
     <button>Victor Wright</button>
 </a>
 
