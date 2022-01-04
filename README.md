@@ -4,7 +4,7 @@
     <button>Open my profile on GH Pages</button>
 </a>
 
-<h3>Full Stack App & Web Developer <7h3>
+<h3>Full Stack App & Web Developer </h3>
 Specializing in  
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS</li>
     <li>BackEnd: PostgreSQL, MongoDB</li>
