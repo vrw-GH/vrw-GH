@@ -1,4 +1,4 @@
-# Hello, I am Victor Wright.
+<span style="color:blue"> # Hello, I am Victor Wright.</span>
 <h5>< < < I’m interested in IT... Space... Gadgets... > > ></h5>
 (on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
     <button>Open my profile on GH Pages</button>
