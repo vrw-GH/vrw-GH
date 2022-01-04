@@ -1,9 +1,13 @@
 # Hello, I am Victor Wright.
-(on GitHub @vrw-GH)
+<h5>< < < I’m interested in IT... Space... Gadgets... > > ></h5>
+(on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/Victor-Wright-Profile/" target="_blank">
+    <button>Open my profile on GH Pages</button>
+</a>
 
-< < < I’m interested in IT... Space... Gadgets... > > >
-
-Full Stack App & Web Developer specializing in Javascript: React, Express, PostgreSQL, MongoDB and Web Designing with HTML/CSS.
+<h3>Full Stack App & Web Developer <7h3>
+Specializing in  
+    <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS</li>
+    <li>BackEnd: PostgreSQL, MongoDB</li>
 With over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 
 <h3>Connect with me:</h3>
@@ -44,11 +48,6 @@ WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 </a></li>
 </ul>
 
-
-<!-- This opens in self, but in-page opens in _blank. -->
-<a href="https://vrw-gh.github.io/Victor-Wright-Profile/" target="_blank">
-    <button>Open my profile on GH Pages</button>
-</a>
 
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
