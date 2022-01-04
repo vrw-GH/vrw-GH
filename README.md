@@ -52,7 +52,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 
 📫 Email: victor.wright@outlook.de
 <br/>
-📲 Mobile: +176 4677 4278
+📲 Mobile: +49 176 4677 4278
 
 
 <h4>Highlighted projects I have worked on:-</h4>
