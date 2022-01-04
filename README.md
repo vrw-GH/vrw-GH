@@ -1,10 +1,10 @@
-<span style="color:blue"> # Hello, I am Victor Wright.</span>
+# Hello, I am Victor Wright.
 <h5>< < < I’m interested in IT... Space... Gadgets... > > ></h5>
 (on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
     <button>Open my profile on GH Pages</button>
 </a>
 
-<h3>Full Stack App & Web Developer </h3>
+<h3 style="color:blue">Full Stack App & Web Developer </h3>
 Specializing in  
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
     <li>BackEnd: Node.js, Express.js</li>
