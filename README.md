@@ -12,7 +12,6 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-wright-4a171427/" targe
     <button>Victor Wright</button>
 </a>
 
-<br/>
 📫 Email: victor.wright@outlook.de
 <br/>
 📲 Mobile: +176 4677 4278
