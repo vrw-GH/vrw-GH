@@ -4,7 +4,7 @@ I am:
 
 <div style="background-color: rgb(50, 50, 50);">
 
-``< < < I’m interested in IT... Space... Gadgets... > > >
+``Forever Googling: IT... AI... Metaverse... Space... Gadgets...
 ``
 
 </div>
@@ -32,13 +32,17 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <div>
 <br/>
-Specializing in  
-    <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
-    <li>BackEnd: Node.js, Express.js</li>
-    <li>Databases: MySQL/PostgreSQL, MongoDB</li>
-    <li>Other: Git, Figma</li>
-    <li>Languages: JavaScript, Visual FoxPro</li>
-<br/>    
+Modus Operandi: <strong>PERN</strong> - <i>Unfortunately I am not a Dragonrider (yet!)</i>
+<br/>
+Specializing in: 
+<li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
+<li>BackEnd: Node.js, Express.js</li>
+<li>Databases: MySQL/PostgreSQL, MongoDB</li>
+<li>Other: Git, Figma</li>
+<li>Languages: JavaScript, Visual FoxPro</li>
+<br/>
+- - - - - -
+<br/>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 
 <h3>Connect with me:</h3>
@@ -67,6 +71,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
     <button>My Hacker News (Coding project)</button>
 </a></li>
 </ul>
+    
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
