@@ -6,11 +6,28 @@
 Full Stack App & Web Developer specializing in Javascript: React, Express, PostgreSQL, MongoDB and Web Designing with HTML/CSS.
 With over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 
-Contact me:
+<h3>Connect with me:</h3>
+<br/>
+<a href="https://www.linkedin.com/in/victor-wright-4a171427/" target="_blank">
+    <button>linkedin</button>
+</a>
+ 
+
 <br/>
 📫 Email: victor.wright@outlook.de
 <br/>
 📲 Mobile: +176 4677 4278
+
+<h3>My Skill Set</h3>
+Frontend
+React Bootstrap CSS3 HTML5 JavaScript TypeScript Vue.js Sass Redux Git Django Figma
+Backend
+PHP MongoDB Node.js Python Express.js PostgreSQL Chai Mocha Java Python Go
+DevOps
+Linux Git Bash Webpack Nginx Docker
+Languages
+Go C Java JavaScript Bash Haskell PHP
+
 
 <strong> Some of my projects to date:-
 WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
@@ -39,3 +56,5 @@ WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Github Stats
