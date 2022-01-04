@@ -1,6 +1,6 @@
 # Hello World! 
 I am: 
-<h1> V i c t o r  W r i g h t</h1>
+<h1> V i c t o r &nbsp;  W r i g h t</h1>
 
 <div style="background-color: rgb(50, 50, 50);">
 
@@ -32,9 +32,9 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <div>
 <br/>
-Modus Operandi: <strong>PERN</strong> - <i>Unfortunately I am not a Dragonrider (yet!)</i>
+Modus Operandi: <strong>PERN</strong> <i>( - However, sadly I am not a Dragonrider ... yet! 😉 )</i>
 <br/>
-Specializing in: 
+==Specializing in:===
 <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
 <li>BackEnd: Node.js, Express.js</li>
 <li>Databases: MySQL/PostgreSQL, MongoDB</li>
