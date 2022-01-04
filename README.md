@@ -24,10 +24,10 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-wright-4a171427/" targe
 📲 Mobile: +176 4677 4278
 
 
-<strong> Some of my projects to date:-
+<strong> Highlighted projects I have worked on:-
 WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
-<li><a href="https://" target="_blank">
+<li><a href="https://github.com/vrw-GH/final-project-wd020" target="_blank">
     <button>FINAL Project (Share Your Food)</button>
 </a></li>
 <li><a href="https://vigilant-turing-554418.netlify.app/" target="_blank">
@@ -47,4 +47,3 @@ vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Github Stats
