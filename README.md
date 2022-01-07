@@ -61,13 +61,13 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <li><a href="https://github.com/vrw-GH/final-project-wd020" target="_blank">
     <button>FINAL Project (Share Your Food)</button>
 </a></li>
-<li><a href="https://vigilant-turing-554418.netlify.app/" target="_blank">
+<li><a href="https://github.com/vrw-GH/vw_my-recipe-book" target="_blank">
     <button>Group project (The Recipe Book)</button>
 </a></li>
-<li><a href="https://avc-food-blog.herokuapp.com/" target="_blank">
+<li><a href="https://github.com/vrw-GH/contentful_backend" target="_blank">
     <button>Backend API for group project (Contentful with Backend project)</button>
 </a></li>
-<li><a href="https://condescending-wilson-ebe840.netlify.app/" target="_blank">
+<li><a href="https://github.com/vrw-GH/hacker-news" target="_blank">
     <button>My Hacker News (Coding project)</button>
 </a></li>
 </ul>
