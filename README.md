@@ -65,7 +65,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
     <button>Group project (The Recipe Book)</button>
 </a></li>
 <li><a href="https://github.com/vrw-GH/sharemyfood-backend" target="_blank">
-    <button>Backend API for group project (Contentful with Backend project)</button>
+    <button>Backend API for group project</button>
 </a></li>
 <li><a href="https://github.com/vrw-GH/hacker-news" target="_blank">
     <button>My Hacker News (Coding project)</button>
