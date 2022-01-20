@@ -59,7 +59,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
 <li><a href="https://github.com/vrw-GH/final-project-wd020" target="_blank">
-    <button>FINAL Project (Share Your Food)</button>
+    <button>FINAL Project (Share My Food)</button>
 </a></li>
 <li><a href="https://github.com/vrw-GH/vw_my-recipe-book" target="_blank">
     <button>Group project (The Recipe Book)</button>
