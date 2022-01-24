@@ -30,7 +30,7 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<div>
+</div>
 <br/>
 Modus Operandi: <strong>PERN</strong> <i>( - However, sadly I am not a Dragonrider ... yet! 😉 )</i>
 <br/>
