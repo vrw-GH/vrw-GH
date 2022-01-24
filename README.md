@@ -13,7 +13,7 @@ I am:
 </a>
 <h2>Full Stack App & Web Developer </h2>
 <i>pushing the limits of the digital world!</i>
-<div style="margin: 40px; background-color: rgb(50, 50, 50); width:250px; height:200px">
+<div style="margin: 40px; background-color: rgb(50, 50, 50); width:auto; height:200px">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
