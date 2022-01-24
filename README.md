@@ -13,7 +13,7 @@ I am:
 </a>
 <h2>Full Stack App & Web Developer </h2>
 <i>pushing the limits of the digital world!</i>
-<div style="margin: 40px; background-color: rgb(50, 50, 50); width:auto; height:200px">
+<div style="margin: 40px; background-color: rgb(50, 50, 50); width:600px; height:auto">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -32,14 +32,18 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
 <br/>
+<div style="margin: 40px; width:600px; height:auto ">
 Modus Operandi: <strong>PERN</strong> <i>( - However, sadly I am not a Dragonrider ... yet! 😉 )</i>
+</div>
 <br/>
 ==Specializing in:===
+<ul>
 <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
 <li>BackEnd: Node.js, Express.js</li>
 <li>Databases: MySQL/PostgreSQL, MongoDB</li>
 <li>Other: Git, Figma</li>
 <li>Languages: JavaScript, Visual FoxPro</li>
+</ul>
 <br/>
 - - - - - -
 <br/>
