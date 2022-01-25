@@ -33,7 +33,7 @@ I am:
 </div>
 <br/>
 <div style="margin: 40px ">
-Modus Operandi: <strong>PERN</strong> <i>( - However, sadly I am not a Dragonrider ... yet! 😉 )</i>
+Modus Operandi: <strong>PERN</strong> <i>( ... soon I will be a full Dragonrider! 😉😉 )</i>
 </div>
 <br/>
 ==Specializing in:===
