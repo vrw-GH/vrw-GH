@@ -4,7 +4,7 @@ I am:
 
 <h1> V i c t o r &nbsp;  W r i g h t</h1>
 
-<div style="background-color: rgb(50, 50, 50);">
+<div style="background-color: rgb(220, 240, 220);">
 
 `Forever Googling: IT... AI... Metaverse... Space... Gadgets... `
 
@@ -14,7 +14,7 @@ I am:
 </a>
 <h2>Full Stack App & Web Developer </h2>
 <i>pushing the limits of the digital world!</i>
-<div style="margin: 40px; background-color: rgb(50, 50, 50); width:250px; height:200px">
+<div style="margin: 40px; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -31,17 +31,21 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<div>
+</div>
 <br/>
-Modus Operandi: <strong>PERN</strong> <i>( - However, sadly I am not a Dragonrider ... yet! 😉 )</i>
+<div style="margin: 40px ">
+Modus Operandi: <strong>PERN</strong> <i>( ... soon I will be a full Dragonrider! 😉😉 )</i>
+</div>
 <br/>
 ==Specializing in:===
+<ul>
 <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
 <li>BackEnd: Node.js, Express.js</li>
 <li>Databases: MySQL/PostgreSQL, MongoDB</li>
 <li>Other: Git/GitHub, Figma, Scrum</li>
 <li>Other languages: Visual FoxPro, Visual Basic</li>
 <li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
+</ul>
 <br/>
 - - - - - -
 <br/>
