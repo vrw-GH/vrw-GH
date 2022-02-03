@@ -1,11 +1,12 @@
-# Hello World! 
-I am: 
+# Hello World!
+
+I am:
+
 <h1> V i c t o r &nbsp;  W r i g h t</h1>
 
 <div style="background-color: rgb(220, 240, 220);">
 
-``Forever Googling: IT... AI... Metaverse... Space... Gadgets...
-``
+`Forever Googling: IT... AI... Metaverse... Space... Gadgets... `
 
 </div>
 (on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
@@ -38,11 +39,12 @@ Modus Operandi: <strong>PERN</strong> <i>( ... soon I will be a full Dragonrider
 <br/>
 ==Specializing in:===
 <ul>
-<li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML/CSS/Bootstrap </li>
+<li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
 <li>BackEnd: Node.js, Express.js</li>
 <li>Databases: MySQL/PostgreSQL, MongoDB</li>
-<li>Other: Git, Figma</li>
-<li>Languages: JavaScript, Visual FoxPro</li>
+<li>Other: Git/GitHub, Figma, Scrum</li>
+<li>Other languages: Visual FoxPro, Visual Basic</li>
+<li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
 </ul>
 <br/>
 - - - - - -
@@ -57,7 +59,6 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 📫 Email: victor.wright@outlook.de
 <br/>
 📲 Mobile: +49 176 4677 4278
-
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
@@ -80,4 +81,3 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
