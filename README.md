@@ -63,7 +63,8 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
-<li><a href="https://github.com/vrw-GH/final-project-wd020" target="_blank">
+
+<li><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank">
     <button>FINAL Project (Share My Food)</button>
 </a></li>
 <li><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank">
