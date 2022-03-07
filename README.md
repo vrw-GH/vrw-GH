@@ -73,7 +73,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <li><a href="https://github.com/vrw-GH/vw_my-recipe-book" target="_blank">
     <button>Group project (The Recipe Book)</button>
 </a></li>
-<li><a href="https://github.com/vrw-GH/hacker-news" target="_blank">
+<li><a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
     <button>My Hacker News (Coding project)</button>
 </a></li>
 </ul>
