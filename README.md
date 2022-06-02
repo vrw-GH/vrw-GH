@@ -1,7 +1,8 @@
-# Hello World!
+# Hello MetaWorld!
 
 I am:
 
+<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
 <h1> V i c t o r &nbsp;  W r i g h t</h1>
 
 <div style="background-color: rgb(220, 240, 220);">
@@ -10,7 +11,7 @@ I am:
 
 </div>
 (on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
-    <button>Open my profile on GH Pages</button>
+    <button>To my profile (GH Pages)</button>
 </a>
 <h2>Full Stack App & Web Developer </h2>
 <i>pushing the limits of the digital world!</i>
@@ -76,6 +77,12 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <li><a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
     <button>My Hacker News (Coding project)</button>
 </a></li>
+</ul>
+
+<strong>Current Projects</strong>
+
+<ul>
+<li><a href="https://p1-basic-stuff.herokuapp.com/" target="_blank"><button>My First PHP Project</button></li>
 </ul>
     
 <!---
