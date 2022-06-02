@@ -1,9 +1,7 @@
 # Hello MetaWorld!
 
 I am &nbsp; <img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
-
-<strong style="font-size: 4rem;">&nbsp;&nbsp;&nbsp;&nbsp; V i c t o r &nbsp; W r i g h t</strong>
-
+<strong style="font-size: 4rem;">&nbsp;&nbsp; V i c t o r &nbsp; W r i g h t</strong>
 <br><strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i>
 
 <div style="background-color: rgb(220, 240, 220);">
@@ -84,4 +82,3 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
     <button>GH Pages profile (vrw-gh.github.io/vrw-GH)</button>
 </a>
-
