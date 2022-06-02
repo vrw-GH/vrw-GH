@@ -82,7 +82,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <strong>Current Projects</strong>
 
 <ul>
-<li><a href="https://p1-basic-stuff.herokuapp.com/" target="_blank"><button>My First PHP Project</button></li>
+<li><a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></li>
 </ul>
     
 <!---
