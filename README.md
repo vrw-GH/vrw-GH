@@ -1,7 +1,8 @@
-# Hello World!
+# Hello MetaWorld!
 
 I am:
 
+<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
 <h1> V i c t o r &nbsp;  W r i g h t</h1>
 
 <div style="background-color: rgb(220, 240, 220);">
@@ -10,11 +11,11 @@ I am:
 
 </div>
 (on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
-    <button>Open my profile on GH Pages</button>
+    <button>To my profile (GH Pages)</button>
 </a>
 <h2>Full Stack App & Web Developer </h2>
 <i>pushing the limits of the digital world!</i>
-<div style="margin: 40px; background-color: rgb(220, 240, 220)">
+<div style="width: 75%; margin: 10px; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -33,8 +34,8 @@ I am:
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
 <br/>
-<div style="margin: 40px ">
-Modus Operandi: <strong>PERN</strong> <i>( ... soon I will be a full Dragonrider! 😉😉 )</i>
+<div style="">
+Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
 </div>
 <br/>
 ==Specializing in:===
@@ -76,6 +77,12 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <li><a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
     <button>My Hacker News (Coding project)</button>
 </a></li>
+</ul>
+
+<strong>Current Projects</strong>
+
+<ul>
+<li><a href="https://p1-basic-stuff.herokuapp.com/" target="_blank"><button>My First PHP Project</button></li>
 </ul>
     
 <!---
