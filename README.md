@@ -1,21 +1,14 @@
 # Hello MetaWorld!
 
-I am:
-
-<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
-<h1> V i c t o r &nbsp;  W r i g h t</h1>
+I am &nbsp; <img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
+<strong style="font-size: 4rem;">&nbsp;&nbsp;&nbsp;&nbsp; V i c t o r &nbsp;  W r i g h t</strong>
+<br><strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i>
 
 <div style="background-color: rgb(220, 240, 220);">
-
 `Forever Googling: IT... AI... Metaverse... Space... Gadgets... `
-
 </div>
-(on GitHub @vrw-GH) <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
-    <button>To my profile (GH Pages)</button>
-</a>
-<h2>Full Stack App & Web Developer </h2>
-<i>pushing the limits of the digital world!</i>
-<div style="width: 75%; margin: 10px; background-color: rgb(220, 240, 220)">
+<br>
+<div style="width: 90%; margin: 10px; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -85,6 +78,10 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <li><a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></a>
 </li>
 </ul>
+<br>
+<a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
+    <button>GH Pages profile (vrw-gh.github.io/vrw-GH)</button>
+</a>
     
 <!---
 vrw-GH/vrw-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
