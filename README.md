@@ -29,10 +29,9 @@
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
-<br/>
-<!-- <div style=""> -->
-Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
-<!-- </div> -->
+<div style="">
+Modus Operandi: <strong> P. E. R. N. </strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
+</div>
 <br/>
 ==Specializing in:===
 <ul>
@@ -43,7 +42,6 @@ Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! �
 <li>Other languages: Visual FoxPro, Visual Basic</li>
 <li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
 </ul>
-<br/>
 <div>
 <code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
 </div>
