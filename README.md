@@ -22,14 +22,13 @@ I am &nbsp;<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
-<div style="background-color: rgb(220, 240, 220);">
+<div>
 <code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
 </div>
-<br>
 <br/>
-<div style="">
+<!-- <div style=""> -->
 Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
-</div>
+<!-- </div> -->
 <br/>
 ==Specializing in:===
 <ul>
