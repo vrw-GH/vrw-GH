@@ -52,6 +52,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 📫 Email: victor.wright@outlook.de
 <br/>
 📲 Mobile: +49 176 4677 4278
+[Please download my CV here](</resume/CV%20VW-2022-06%20(EN)%20.pdf>)
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
