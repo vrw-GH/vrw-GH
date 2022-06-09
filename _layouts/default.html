@@ -11,7 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     
-    {% include_relative head.html %}
+    {% include head.html %}
     <!-- <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">  -->
     
   </head>
@@ -19,7 +19,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    {% include_relative banner.html %}
+    {% include banner.html %}
     <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
     <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
     <!-- {% if site.github.is_project_page %}
@@ -35,7 +35,7 @@
   
     </main>
 
-    {% include_relative footer.html %}
+    {% include footer.html %}
     <!-- <footer class="site-footer">
       {% if site.github.is_project_page %}
         <span class="site-footer-owner">
