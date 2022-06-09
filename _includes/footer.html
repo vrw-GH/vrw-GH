@@ -1,13 +1,9 @@
 
 <section id="footer" class="page-header">
-  {% if site.file_CV or site.file_WBS %}
-    Files: &nbsp;
-    <a href="{{ site.file_CV }}" class="btn" target="_blank">My CV</a>
-    {% if site.file_WBS %}
-      <a href="{{ site.file_WBS }}" class="btn" target="_blank">WBS Certificate</a>
-    {% endif %}
-  {% endif %}
 
+  Files: &nbsp;
+  <a href="{{ site.file_CV }}" class="btn" target="_blank">My CV</a>
+  <a href="{{ site.file_WBS }}" class="btn" target="_blank">WBS Certificate</a>
   
   <footer class="site-footer">
     {% if site.github.is_project_page %}
