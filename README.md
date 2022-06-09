@@ -11,7 +11,8 @@
 
 <!-- <strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i> -->
 
-<div style="width: 90%; margin: 10px; background-color: rgb(220, 240, 220)">
+<!-- <div style="width: 80%; margin: 10px; background-color: rgb(220, 240, 220)"> -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 80%; margin: 0 auto; padding: 10px; text-align: center; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
