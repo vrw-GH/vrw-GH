@@ -1,0 +1,26 @@
+<!-- used in default.html    {% include_relative page-footer-custom.html %} -->
+<section id="footer-downloads" class="page-header">
+  <footer class="site-footer">
+    {% if site.github.is_project_page %}
+      <span class="site-footer-owner">
+        <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
+      </span>
+    {% endif %}
+    <i><small>
+      <span class="site-footer-credits">
+        This page was deployed by &nbsp;
+        <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
+        &nbsp; using a modified &nbsp;
+        <a href="https://pages-themes.github.io/cayman/" target="_blank">Caymen Theme</a>
+        .
+      </span>
+    </small></i>
+  </footer>
+  <!-- {% if site.show_downloads %} -->
+    <span class="footer-downloads">
+      Downloads: 
+      <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+      <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+    </span>
+  <!-- {% endif %} -->
+</section>
