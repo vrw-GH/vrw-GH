@@ -1,8 +1,15 @@
-# Hello MetaWorld!
+# Full Stack App & Web Developer
 
-I am &nbsp;<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
-<strong style="font-size: 4rem;">&nbsp; V i c t o r &nbsp; W r i g h t</strong>
-<br><strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i>
+<i> - pushing the limits of the digital world!</i>
+
+<!-- # Hello MetaWorld! -->
+
+<!-- I am &nbsp;<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px"> -->
+
+<!-- <strong style="font-size: 4rem;">&nbsp; V i c t o r &nbsp; W r i g h t</strong> -->
+<!-- <br> -->
+
+<!-- <strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i> -->
 
 <div style="width: 90%; margin: 10px; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -22,9 +29,6 @@ I am &nbsp;<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
-<div>
-<code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
-</div>
 <br/>
 <!-- <div style=""> -->
 Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
@@ -40,6 +44,9 @@ Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! �
 <li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
 </ul>
 <br/>
+<div>
+<code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
+</div>
 - - - - - -
 <br/>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
