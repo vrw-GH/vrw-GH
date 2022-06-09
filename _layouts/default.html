@@ -28,15 +28,14 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="page-header" role="main">
+      <!-- class="main-content" -->
       {{ content }}
 
-      <footer class="site-footer" style="background-color:green">
+      <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">
-            {% if site.github.is_project_page %}
-              <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
-            {% endif %}
+            <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
             <!-- <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> -->
             <!-- is maintained by  -->
             <!-- On gitHub: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>. -->
