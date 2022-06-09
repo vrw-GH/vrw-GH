@@ -17,62 +17,35 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <div style="display: flex; flex-wrap: wrap; justify-content: center">
-          <img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="160px" style="border-radius: 40%; object-fit: cover;">
-        <div style="font-size: 4rem;">
-          <div>
-            <strong>&nbsp;V i c t o r</strong>
-          </div>
-          <div>
-            <strong>&nbsp;W r i g h t</strong>
-          </div>
-        </div>
-      </div>
-      <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
-      <!-- {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %} -->
-      <!-- {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %} -->
-    </header>
+    {% include_relative page-header-custom.html %}
+    <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+    <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+    <!-- {% if site.github.is_project_page %}
+      <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+    {% endif %} -->
+    <!-- {% if site.show_downloads %}
+      <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+      <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+    {% endif %} -->
 
     <main id="content" class="main-content" role="main">
       {{ content }}
   
     </main>
 
-    <section id="footer-downloads" class="page-header">
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner">
-            <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
-            <!-- <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> -->
-            <!-- is maintained by  -->
-            <!-- On gitHub: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>. -->
-          </span>
-        {% endif %}
-        <i><small>
-          <span class="site-footer-credits">
-            This page was deployed by &nbsp;
-            <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
-            &nbsp; using a modified &nbsp;
-            <a href="https://pages-themes.github.io/cayman/" target="_blank">Caymen Theme</a>
-            .
-          </span>
-        </small></i>
-      </footer>
-      <!-- {% if site.show_downloads %} -->
-        <span class="site-footer-credits">
-          Downloads: 
-          <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-          <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-        </span>
-      <!-- {% endif %} -->
-    </section>
+    {% include_relative page-footer-custom.html %}
 
+    <!-- <footer class="site-footer">
+      {% if site.github.is_project_page %}
+        <span class="site-footer-owner">
+          <a href="{{ site.github.owner_url }}" class="btn">View on GitHub</a>
+          <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
+        </span>
+      {% endif %}
+      <span class="site-footer-credits">
+        Built with <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://pages-themes.github.io/cayman/">Caymen Theme</a>.
+      </span>
+    </footer> -->
+    
   </body>
 </html>
