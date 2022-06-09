@@ -52,6 +52,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 📫 Email: victor.wright@outlook.de
 <br/>
 📲 Mobile: +49 176 4677 4278
+<br/>
 [Please download my CV here](</resume/CV%20VW-2022-06%20(EN)%20.pdf>)
 
 <h4>Highlighted projects I have worked on:-</h4>
