@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+
+
+- name: Deploy to GitHub Pages
+  uses: JamesIves/github-pages-deploy-action@v4.3.3
