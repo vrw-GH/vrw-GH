@@ -1,6 +1,6 @@
 
 <section id="footer" class="page-header">
-  {% if site.file_CV | site.file_WBS %}
+  {% if site.file_CV or site.file_WBS %}
     Files: &nbsp;
     <a href="{{ site.file_CV }}" class="btn" target="_blank">My CV</a>
     {% if site.file_WBS %}
