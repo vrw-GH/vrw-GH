@@ -1,13 +1,9 @@
 # Hello MetaWorld!
 
-I am &nbsp; <img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
-<strong style="font-size: 4rem;">&nbsp;&nbsp; V i c t o r &nbsp; W r i g h t</strong>
-<br><strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i>
+I am &nbsp;<img src="https://avatars.githubusercontent.com/u/81757839?v=4" width="100px">
+<strong style="font-size: 4rem;">&nbsp; V i c t o r &nbsp; W r i g h t</strong>
+<br><strong style="margin: 0; font: 3rem;">Full Stack App & Web Developer </strong>&nbsp;&nbsp;<i> - pushing the limits of the digital world!</i>
 
-<div style="background-color: rgb(220, 240, 220);">
-`Forever Googling: IT... AI... Metaverse... Space... Gadgets... `
-</div>
-<br>
 <div style="width: 90%; margin: 10px; background-color: rgb(220, 240, 220)">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -26,6 +22,10 @@ I am &nbsp; <img src="https://avatars.githubusercontent.com/u/81757839?v=4" widt
 <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
+<div style="background-color: rgb(220, 240, 220);">
+<code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
+</div>
+<br>
 <br/>
 <div style="">
 Modus Operandi: <strong>PERN</strong> <i>( ... soon to be a full Dragonrider! 😉😉 )</i>
