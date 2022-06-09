@@ -1,10 +1,8 @@
 
-<section id="footer-downloads" class="page-header">
-  <span class="footer-downloads">
+<section id="footer" class="page-header">
+  {% if site.download_CV %}
     Downloads: &nbsp;
     <a href="{{ site.download_CV }}" class="btn">Download CV</a>
-  </span>
-  {% if site.show_downloads %}
   {% endif %}
   
   <footer class="site-footer">
