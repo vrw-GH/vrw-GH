@@ -45,10 +45,10 @@ Modus Operandi: <strong> P. E. R. N. </strong> <i>( ... soon to be a full Dragon
 <div>
 <code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
 </div>
-- - - - - -
+<!-- - - - - - - -->
 <br/>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
-
+<br/>
 <h3>Connect with me:</h3>
 On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
     <button>Victor Wright</button>
