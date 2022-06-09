@@ -1,5 +1,12 @@
 
 <section id="footer-downloads" class="page-header">
+  <span class="footer-downloads">
+    Downloads: &nbsp;
+    <a href="{{ site.download_CV }}" class="btn">Download CV</a>
+  </span>
+  {% if site.show_downloads %}
+  {% endif %}
+  
   <footer class="site-footer">
     {% if site.github.is_project_page %}
       <span class="site-footer-owner">
@@ -16,12 +23,5 @@
       </span>
     </small></i>
   </footer>
-  
-    <span class="footer-downloads">
-      Downloads: 
-      <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-      <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-    </span>
-    {% if site.show_downloads %}
-  {% endif %}
+      
 </section>
