@@ -49,11 +49,11 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
     <button>Victor Wright</button>
 </a>
 
-📫 Email: victor.wright@outlook.de
+📫 Email: [victor.wright@outlook.de](mailto:victor.wright@outlook.de)
 <br/>
 📲 Mobile: +49 176 4677 4278
 <br/>
-[Please download my CV here](</resume/CV%20VW-2022-06%20(EN)%20.pdf>)
+File download: [my CV ](</resume/CV%20VW-2022-06%20(EN)%20.pdf>)
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
