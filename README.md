@@ -53,11 +53,9 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <br/>
 📲 Mobile: +49 176 4677 4278
 <br/>
-Downloads:
+Downloads: &nbsp; &nbsp;
+[Curriculum Vitae](https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf), &nbsp; [Recommendation](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright_Recommendation_letter.pdf), &nbsp; [Certificate](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS%20Certificate%20-%20FS%20Web%20%26%20App%20Dev.pdf)
 
-<li>[Curriculum Vitae](<https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf>)</li>
-<li>[Recommendation  ](<https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright_Recommendation_letter.pdf>)</li>
-<br>
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
@@ -84,5 +82,8 @@ Downloads:
 </ul>
 <br>
 <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
-    <button>GH Pages profile (vrw-gh.github.io/vrw-GH)</button>
+    <button>GH Profile Page</button> https://vrw-gh.github.io/vrw-GH/
+</a>
+<a href="https://github.com/vrw-GH" target="_blank">
+    <button>On GitHub</button> https://github.com/vrw-GH
 </a>
