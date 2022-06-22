@@ -53,7 +53,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <br/>
 📲 Mobile: +49 176 4677 4278
 <br/>
-View/Download: [my CV](<https://github.com/vrw-GH/vrw-GH/blob/a3b9fc06df0374835950eb0bd42d0c95f3ef9a8a/resume/cv_vw-en.pdf>)
+View/Download: [my CV](https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf)
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
