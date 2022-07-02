@@ -30,11 +30,12 @@
 <br/>
 ·•─── &nbsp;&nbsp;&nbsp;I specialize in:&nbsp;&nbsp;&nbsp; ───•·
 <ul>
+<text>
 <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
 <li>BackEnd: Node.js, Express.js</li>
 <li>Databases: MySQL/PostgreSQL, MongoDB</li>
 <li>Other: Git/GitHub, Figma, Scrum</li>
-<li>Other languages: Visual FoxPro, Visual Basic</li>
+<li>Other languages: PHP, Visual FoxPro, Visual Basic</li>
 <li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
 </ul>
 <div>
