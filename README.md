@@ -54,14 +54,12 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <br/>
 📲 Mobile: +49 176 4677 4278
 <br/>
-Downloads: &nbsp; &nbsp;
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg " alt="Curriculum Vitae" width="50px" height="auto"></a>
-
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg" alt="Graduation Certificate" width="50px" height="auto"></a>
-
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="50px" height="auto"></a>
-
-<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="50px" height="auto"></a>
+♦♦ Downloads ♦♦
+<br/>
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg " alt="Curriculum Vitae" width="auto" height="100px"></a>
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.pdf" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg" alt="Graduation Certificate" width="auto" height="100px"></a>
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.pdf" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="auto" height="100px"></a>
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="auto" height="100px"></a>
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
