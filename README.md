@@ -25,7 +25,8 @@
         <br><i style="padding-top: 0"><small>» » » soon to be a full Dragonrider 😉</small></i>
     </div>
 </div>
-<div>
+
+<div style="width: 100%;  margin: 0 auto; ">
     <br/>
     <ul>
     <text>
@@ -85,7 +86,7 @@
     </li>
     </ul>
     <hr>
-    <br><a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
+    <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
         <button>• GH Profile Page</button>
     </a>
     <a href="https://github.com/vrw-GH" target="_blank" title="https://github.com/vrw-GH">
