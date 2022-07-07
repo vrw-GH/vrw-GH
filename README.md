@@ -62,9 +62,7 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.pdf" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="auto" height="100px"></a>
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="auto" height="100px"></a>
 
-<p>
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf#toolbar=0">example</a>   
-</p>
+<object data='https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf#toolbar=0' type='application/pdf' width='100%' height='700px'> <p>It appears your Web browser is not configured to display PDF files. No worries, just <a href='example.com/path.pdf'>click here to download the PDF file.</a> or <a href="drive.google.com/[drive path]/view?usp=sharing"> click here to view</a></p> </object>
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
@@ -93,10 +91,10 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 </li>
 </ul>
 <br>
-<a href="https://vrw-gh.github.io/vrw-GH/" target="_blank">
-    <button>GH Profile Page</button> https://vrw-gh.github.io/vrw-GH/
+<a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
+    <button>GH Profile Page</button>
 </a>
-<a href="https://github.com/vrw-GH" target="_blank">
-    <button>On GitHub</button> https://github.com/vrw-GH
-</a>
+<a href="https://github.com/vrw-GH" target="_blank" title="https://github.com/vrw-GH">
+    <button>On GitHub</button>
+    </a>
 </body>
