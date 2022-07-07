@@ -2,8 +2,8 @@
 
 <i style="color: lightgreen"> - pushing the limits of the digital world!</i>
 
-<div style="width: 95%;  margin: 0 auto; text-align: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap; width: 95%;  margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
+    <div style=" max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -11,7 +11,7 @@
         <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />        
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -20,9 +20,9 @@
         <img  src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
         <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-    </div>
-    <div style="justify-content: center; color: darkgreen;">
-        Modus Operandi: &nbsp;<strong style="font-size: 2rem"> P. E. R. N. </strong> &nbsp;&nbsp; <i><small>( ... soon to be a full Dragonrider 😉 )</small></i>
+        <br>
+        <p style="padding-bottom: 0">Modus Operandi: &nbsp;<strong style="font-size: 2rem">P. E. R. N.</strong>
+        <br><i style="padding-top: 0"><small>» » » soon to be a full Dragonrider 😉</small></i>
     </div>
 </div>
 <br/>
@@ -38,8 +38,6 @@
 <div>
 <code>Forever Googling: IT... AI... Metaverse... Space... Gadgets... </code>
 </div>
-<!-- - - - - - - -->
-<br/>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <br/>
 <h3>Connect with me:</h3>
