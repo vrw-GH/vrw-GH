@@ -1,3 +1,4 @@
+<body>
 # Full Stack App & Web Developer
 
 <i style="color: lightgreen"> - pushing the limits of the digital world!</i>
@@ -61,6 +62,10 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.pdf" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="auto" height="100px"></a>
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="auto" height="100px"></a>
 
+<p>
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf#toolbar=0">example</a>   
+</p>
+
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
 <ul>
@@ -94,3 +99,4 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 <a href="https://github.com/vrw-GH" target="_blank">
     <button>On GitHub</button> https://github.com/vrw-GH
 </a>
+</body>
