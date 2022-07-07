@@ -55,7 +55,13 @@ On Linkedin: <a href="https://www.linkedin.com/in/victor-r-wright/" target="_bla
 📲 Mobile: +49 176 4677 4278
 <br/>
 Downloads: &nbsp; &nbsp;
-[Curriculum Vitae](https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf), &nbsp; [Recommendation](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright_Recommendation_letter.pdf), &nbsp; [Certificate](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS%20Certificate%20-%20FS%20Web%20%26%20App%20Dev.pdf)
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg " alt="Curriculum Vitae" width="50px" height="auto"></a>
+
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg" alt="Graduation Certificate" width="50px" height="auto"></a>
+
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.pdf" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="50px" height="auto"></a>
+
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="50px" height="auto"></a>
 
 <h4>Highlighted projects I have worked on:-</h4>
 <strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
@@ -78,6 +84,8 @@ Downloads: &nbsp; &nbsp;
 <strong>Current Projects</strong>
 
 <ul>
+<li><a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button>PHP-2 File Uploading</button></a>
+</li>
 <li><a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></a>
 </li>
 </ul>
