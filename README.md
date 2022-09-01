@@ -54,13 +54,13 @@ I have over 19 years of experience in upper management, which included extensive
 <hr>
 ♦ Profile Documentation
 <br>
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg " alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true " alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <br/>
 ♦ Certifications
 <br>
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
-<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
 <hr>
 <h3>My Projects Portfolio:-</h3>
 <ul>
