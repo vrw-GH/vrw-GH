@@ -41,28 +41,32 @@
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <br/>
 <h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
-    <button>Linkedin: Victor Wright</button>
-</a>
-<a href="mailto:victor.wright@outlook.de" target="_blank" title="victor.wright@outlook.de">
-    <button>📫 Email: victor.wright@outlook.de</button>
-</a>
-<a href="tel:+49-176-46774278" target="_blank" title="Germany: 176 4677 4278">
-    <button>📲 Mobile/WhatsApp: 176 4677 4278</button>
-</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/victor-r-wright/">
+    <img src="https://img.shields.io/badge/Victor%20Wright-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
+  </a>
+  <a href="mailto:victor.wright@outlook.de">
+    <img src="https://img.shields.io/badge/Email-lightblue?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="Outlook" target="_blank"/>
+  </a>
+  
+  <a href="tel:+49-176-46774278">
+    <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white&style=for-the-badge" alt="Outlook" target="_blank"/>
+  </a>
+</div>
 <br/>
 <hr>
-♦ Profile Documentation
+♦ My Docs & Certificates
 <br>
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true " alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
-<br/>
-♦ Certifications
 <br>
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
 <hr>
-<h3>My Projects Portfolio:-</h3>
+
+
+<h3>
+<img src="https://media.giphy.com/media/4IeMMc2MRGdyg/giphy.gif" width="100"/>Some Highlights:-</h3>
 <ul>
     <li><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="WBS Coding School Bootcamp - Batch #20 (Sep-2021)">
         <button>FINAL Project (Share My Food)</button>
@@ -81,13 +85,12 @@ I have over 19 years of experience in upper management, which included extensive
         </a>
     </li>
 </ul>
-<h4>Recent Projects</h4>
-<ul>
-    <li><a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button>PHP-2 File Uploading</button></a>
-    </li>
-    <li><a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></a>
-    </li>
-</ul>
+<b>Current Projects & Samples: </b>
+<br>
+    <a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button>PHP-2 File Uploading</button></a>
+    &nbsp;•&nbsp;
+    <a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></a>
+    <br>
 <hr>
 <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
     <button>• GH Profile Page</button>
@@ -95,3 +98,8 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://github.com/vrw-GH" target="_blank" title="https://github.com/vrw-GH">
     <button>• On GitHub</button>
 </a>
+<p>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=vrw-GH)](https://github.com/vrw-GH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&layout=compact&theme=vision-friendly-dark)](https://github.com/vrw-GH)
+</p>
