@@ -1,13 +1,12 @@
 <div id="badges" align="center" style="margin:0, padding:0">
-  <a href="https://www.linkedin.com/in/victor-r-wright/">
-    <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
+  <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
+    <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:victor.wright@outlook.de">
-    <img src="https://img.shields.io/badge/Email-lightblue?logo=microsoftoutlook&logoColor=white" alt="Outlook" target="_blank"/>
+  <a href="mailto:victor.wright@outlook.de" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lightblue?logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-  
-  <a href="tel:+49-176-46774278">
-    <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white" alt="Outlook" target="_blank"/>
+  <a href="tel:+49-176-46774278" target="_blank">
+    <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white" alt="Outlook"/>
   </a>
 </div>
 
@@ -38,10 +37,10 @@
             <br>
             <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider 😉</small></i>
         </P>
-    </div>
-    <code>Forever Googling: AI.. Robots.. Metaverse.. Space.. Gadgets..</code>
+    </div>    
+        <p><code>Forever Googling: AI.. Robots.. Metaverse.. Space.. Gadgets..</code>
+        </p>
 </div>
-
 <ul>
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
     <li>BackEnd: Node.js, Express.js</li>
@@ -53,42 +52,37 @@
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <hr>
 <h3>♦ Documents & Certificates</h3>
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true " alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
-<a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="WBS Coding School Bootcamp - Batch #20 (Sep-2021)">
-    <button><img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100"></img> FINAL Project (Share My Food)
-    </button>
-</a>
+<button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="WBS Coding School Bootcamp - Batch #20 (Sep-2021)">
+    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100">FINAL Project (Share My Food)</a></button>
 <br>
-<a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank">
-    <button><img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100"></img> Backend API for group project</button>
-</a>
+<button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank">
+    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100">Backend API for group project</a></button>
 <br>
-<a href="https://vrw-gh.github.io/vw_my-recipe-book/" target="_blank">
-    <button>Group project (The Recipe Book)</button>
-</a>
+<button><a href="https://vrw-gh.github.io/vw_my-recipe-book/" target="_blank">
+   <img src="https://vrw-gh.github.io/vw_my-recipe-book/src/Screenshot.png" height="100">Group project (The Recipe Book) </a></button>
 <br>
-<a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
-    <button><img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></img> My Hacker News (Coding project)</button>
-</a>
+<button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
+    <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100">My Hacker News (Coding project)</a></button>
 <br>
 <sub>
 <b>Current Projects & Samples: </b>
 <br>
-    <a href="https://github.com/vrw-GH/sanskara/" target="_blank"><button>Sanskara Front End (with Email-home)</button></a>
+    <a href="https://vrw-gh.github.io/sanskara/" target="_blank"><button style="padding: 30px">Sanskara Front End (with Email-home)</button></a>
     &nbsp; ♠ &nbsp;
-    <a href="https://github.com/vrw-GH/php-emailer/" target="_blank"><button>PHP Emailer API</button></a>
+    <a href="https://vrw-gh.github.io/php-emailer/" target="_blank"><button style="padding: 30px">PHP Emailer API</button></a>
     &nbsp; ♠ &nbsp;    
-    <a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button>PHP-2 File Uploading</button></a>
+    <a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button style="padding: 30px">PHP-2 File Uploading</button></a>
     &nbsp; ♠ &nbsp;
-    <a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button>My First PHP Project</button></a>
+    <a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button style="padding: 30px">My First PHP Project</button></a>
     &nbsp; ♠ &nbsp;
     <a href="https://vrw-gh.github.io/BOILETPLATES/"
-     target="_blank"><button>App Boilerplates</button></a>
+     target="_blank"><button style="padding: 30px">App Boilerplates</button></a>
     <br>
     <br>
 </sub>
