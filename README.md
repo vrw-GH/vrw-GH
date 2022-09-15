@@ -58,31 +58,26 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
-<button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="WBS Coding School Bootcamp - Batch #20 (Sep-2021)">
-    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100">FINAL Project (Share My Food)</a></button>
-<br>
-<button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank">
-    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100">Backend API for group project</a></button>
-<br>
-<button><a href="https://vrw-gh.github.io/vw_my-recipe-book/" target="_blank">
-   <img src="https://vrw-gh.github.io/vw_my-recipe-book/src/Screenshot.png" height="100">Group project (The Recipe Book) </a></button>
-<br>
-<button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank">
-    <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100">My Hacker News (Coding project)</a></button>
+<button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="Share My Food">
+    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100"></a></button> 
+<button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank" title="Backend API for ShareMyFood">
+    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100"></a></button> 
+<button><a href="https://vrw-gh.github.io/sanskara/" target="_blank" title="Sanskara Front End (with Email-home)">
+    <img src="https://github.com/vrw-GH/sanskara/raw/main/project-basics/Screenshot.png?raw=true" height="100"></a></button> 
+<button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank" title="My Hacker News (Coding project)">
+    <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></a></button>
 <br>
 <sub>
-<b>Current Projects & Samples: </b>
-<br>
-    <a href="https://vrw-gh.github.io/sanskara/" target="_blank"><button style="padding: 30px">Sanskara Front End (with Email-home)</button></a>
-    &nbsp; ♠ &nbsp;
-    <a href="https://vrw-gh.github.io/php-emailer/" target="_blank"><button style="padding: 30px">PHP Emailer API</button></a>
+<b>More Sample Projects: </b>
+<br>  
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>
     &nbsp; ♠ &nbsp;    
-    <a href="https://vrw-gh.github.io/php-p2/" target="_blank"><button style="padding: 30px">PHP-2 File Uploading</button></a>
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>
     &nbsp; ♠ &nbsp;
-    <a href="https://vrw-gh.github.io/php-p1/" target="_blank"><button style="padding: 30px">My First PHP Project</button></a>
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p1/" target="_blank">My First PHP Project</a></button>
     &nbsp; ♠ &nbsp;
-    <a href="https://vrw-gh.github.io/BOILETPLATES/"
-     target="_blank"><button style="padding: 30px">App Boilerplates</button></a>
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/BOILETPLATES/"
+     target="_blank">App Boilerplates</a></button>
     <br>
     <br>
 </sub>
