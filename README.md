@@ -68,17 +68,12 @@ I have over 19 years of experience in upper management, which included extensive
     <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></a></button>
 <br>
 <sub>
-<b>More Sample Projects: </b>
-<br>  
-    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>
-    &nbsp; ♠ &nbsp;    
-    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>
-    &nbsp; ♠ &nbsp;
-    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p1/" target="_blank">My First PHP Project</a></button>
-    &nbsp; ♠ &nbsp;
+<b>More Sample Projects: </b><br />
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>&nbsp; ♠ &nbsp;
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>&nbsp; ♠ &nbsp;
+    <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p1/" target="_blank">My First PHP Project</a></button>&nbsp; ♠ &nbsp;
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/BOILETPLATES/"
-     target="_blank">App Boilerplates</a></button>
-    <br>
+     target="_blank">App Boilerplates</a></button>    
     <br>
 </sub>
 <hr>
