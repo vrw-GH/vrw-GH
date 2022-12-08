@@ -11,6 +11,7 @@
 </div>
 
 # Full Stack App & Web Developer
+
 <i style="color: lightgreen"> ...pushing the limits of the digital world!</i>
 
 <div style="display: flex; flex-wrap: wrap; width: 95%;  margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
@@ -37,7 +38,7 @@
             <br>
             <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider 😉</small></i>
         </P>
-    </div>    
+    </div>
         <p><code>Forever Googling: AI.. Robots.. Metaverse.. Space.. Gadgets..</code>
         </p>
 </div>
@@ -46,24 +47,27 @@
     <li>BackEnd: Node.js, Express.js</li>
     <li>Databases: MySQL/PostgreSQL, MongoDB</li>
     <li>Other: Git/GitHub, Figma, Scrum</li>
-    <li>Other languages: PHP, Visual FoxPro, Visual Basic</li>
+    <li>Other Technologies: PHP, AJAX, jQuery, Angular, Visual FoxPro, Visual Basic</li>
     <li>Methodologies: Object Oriented Programming, Unified Modeling Language, </li>
 </ul>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <hr>
 <h3>♦ Documents & Certificates</h3>
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/vw-EmpCert.jpg?raw=true" target="_blank" title="Employment Certificate"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/vw-EmpCert.jpg?raw=true" alt="Employment Cert" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign1"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" alt="UoM WebDesign1" width="auto" height="100px"></a>&emsp;
+
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
 <button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="Share My Food">
-    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100"></a></button> 
+    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank" title="Backend API for ShareMyFood">
-    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100"></a></button> 
+    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/sanskara/" target="_blank" title="Sanskara Front End (with Email-home)">
-    <img src="https://github.com/vrw-GH/sanskara/raw/main/project-basics/Screenshot.png?raw=true" height="100"></a></button> 
+    <img src="https://github.com/vrw-GH/sanskara/raw/main/project-basics/Screenshot.png?raw=true" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank" title="My Hacker News (Coding project)">
     <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></a></button>
 <br>
@@ -73,7 +77,7 @@ I have over 19 years of experience in upper management, which included extensive
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>&nbsp; ♠ &nbsp;
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p1/" target="_blank">My First PHP Project</a></button>&nbsp; ♠ &nbsp;
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/BOILERPLATES/"
-     target="_blank">App Boilerplates</a></button>    
+     target="_blank">App Boilerplates</a></button>
     <br>
 </sub>
 <hr>
