@@ -16,23 +16,24 @@
 
 <div style="display: flex; flex-wrap: wrap; width: 95%;  margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
-        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-        <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+        <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
+        <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
+        <img  src="https://www.svgrepo.com/download/452185/css-3.svg" alt="CSS3" height="50" />
+        <img  src="https://www.svgrepo.com/download/452228/html-5.svg" alt="HTML5" height="50" />
+        <img  src="https://www.svgrepo.com/download/349419/javascript.svg" alt="JavaScript" height="50" />
+        <img src="https://www.svgrepo.com/download/349540/typescript.svg" alt="TypeScript" height="50" />
+        <img  src="https://www.svgrepo.com/download/303251/mysql-logo.svg" alt="MySQL" height="50" />
+        <img src="https://www.svgrepo.com/download/439231/mongodb.svg" alt="MongoDB" height="50" />
+        <img src="https://www.svgrepo.com/download/439268/postgresql.svg" alt="PostgreSQL" height="50" />
+        <img  src="https://www.svgrepo.com/download/376337/node-js.svg" alt="Node.js" height="50" />
+        <img  src="https://www.svgrepo.com/download/353724/express.svg" alt="Express.js" height="50" />
+        <img src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" height="50" />
+        <img src="https://www.svgrepo.com/download/452147/adobe-illustrator.svg" alt="Illustrator" height="50" />
+        <img  src="https://www.svgrepo.com/download/373968/photoshop.svg" alt="Photoshop" height="50" />
+        <img  src="https://www.svgrepo.com/download/448222/figma.svg" alt="Figma" height="50" />
+        <img  src="https://www.svgrepo.com/download/349568/wordpress.svg" alt="WordPress" height="50" />
         <img  src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="Angular" height="50" />
+        <img  src="https://www.svgrepo.com/download/354180/php.svg" alt="Angular" height="50" />
         <br>
         <p style="padding-bottom: 0;">
             Modus Operandi: &nbsp;<strong style="font-size: 2rem">P. E. R. N.</strong>
@@ -59,9 +60,10 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
-<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.pdf" target="_blank" title="UoM WebDesign2"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign2"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign1"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" alt="UoM WebDesign1" width="auto" height="100px"></a>&emsp;
-
+<br>
+<i>(PDF versions are in Files List at bottom)</i>
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
 <button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="Share My Food">
