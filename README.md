@@ -32,6 +32,7 @@
         <img  src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
         <img  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
         <img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+        <img  src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="Angular" height="50" />
         <br>
         <p style="padding-bottom: 0;">
             Modus Operandi: &nbsp;<strong style="font-size: 2rem">P. E. R. N.</strong>
@@ -39,8 +40,8 @@
             <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider 😉</small></i>
         </P>
     </div>
-        <p><code>Forever Googling: AI.. Robots.. Metaverse.. Space.. Gadgets..</code>
-        </p>
+    <p><code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...</code>
+    </p>
 </div>
 <ul>
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
@@ -58,6 +59,7 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.pdf" target="_blank" title="UoM WebDesign2"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign1"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" alt="UoM WebDesign1" width="auto" height="100px"></a>&emsp;
 
 <hr/>
