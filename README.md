@@ -86,10 +86,10 @@ I have over 19 years of experience in upper management, which included extensive
 <hr>
 
 <a href="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=400px" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=compact&theme=vision-friendly-dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=default&theme=vision-friendly-dark" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=400px" />
 </a>
 
 Go to:
