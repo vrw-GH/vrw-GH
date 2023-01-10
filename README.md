@@ -82,13 +82,17 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" target="_blank" title="Employment Certificate"><img src="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" alt="Employment Cert" width="auto" height="100px"></a>&emsp;
 <br>
-<small><i>(PDF versions are in Files List at bottom)</i></small>
+<small><i>(PDF versions for download - see Files List at bottom)</i></small>
 <hr>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=vrw-GH)](https://github.com/vrw-GH)
+<a href="https://github-readme-stats.vercel.app/api?username=vrw-GH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=compact&theme=vision-friendly-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=compact&theme=vision-friendly-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&layout=compact&theme=vision-friendly-dark)](https://github.com/vrw-GH)
-
+Go to:
 <a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
     <button>GH Profile Page</button>
 </a> &nbsp;•&nbsp;
