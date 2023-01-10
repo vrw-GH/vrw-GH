@@ -14,7 +14,7 @@
 
 <i style="color: lightgreen"> ...pushing the limits of the digital world!</i>
 
-<div style="display: flex; flex-wrap: wrap; width: 95%;  margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
+<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
         <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
@@ -44,7 +44,7 @@
     <p><code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...</code>
     </p>
 </div>
-<ul>
+<ul style="margin: 20px 10% 20px 10%;">
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
     <li>BackEnd: Node.js, Express.js</li>
     <li>Databases: MySQL/PostgreSQL, MongoDB</li>
@@ -89,7 +89,7 @@ I have over 19 years of experience in upper management, which included extensive
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=400px" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=default&theme=vision-friendly-dark" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px" />
 </a>
 
 Go to:
