@@ -64,9 +64,8 @@ I have over 19 years of experience in upper management, which included extensive
 <button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank" title="My Hacker News (Coding project)">
     <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></a></button>
 <br>
-<sub>
-
-<b>More Sample Projects: </b><br />
+<strong>More Sample Projects: </strong>
+<br>
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>&nbsp; ♠ &nbsp;
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/UOM/" target="_blank">University CourseWork</a></button>&nbsp; ♠ &nbsp;
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>&nbsp; ♠ &nbsp;
@@ -74,16 +73,14 @@ I have over 19 years of experience in upper management, which included extensive
     <button style="padding: 10px"><a href="https://vrw-gh.github.io/BOILERPLATES/"
      target="_blank">App Boilerplates</a></button>
     <br>
-</sub>
 <hr>
 <h3>♦ Documents & Certificates</h3>
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
-<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" target="_blank" title="Employment Certificate"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/JFA_Emp-Certificate?raw=true" alt="Employment Cert" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" target="_blank" title="Curriculum Vitae"><img src="https://github.com/vrw-GH/vrw-GH/raw/main/resume/cv_vw-en.jpg?raw=true" alt="Curriculum Vitae" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" target="_blank" title="Recommendation Letter"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px"></a>&emsp;
 <a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" target="_blank" title="Graduation Certificate - WBS Coding School"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Graduation Certificate" width="auto" height="100px"></a>&emsp;
+<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" target="_blank" title="Front End Web Dev (University of Moratuwa)"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" target="_blank" title="Fundamentals of PHP"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Fundamentals of PHP" width="auto" height="100px"></a>&emsp;
-<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign2"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
-<a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign1"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" alt="UoM WebDesign1" width="auto" height="100px"></a>&emsp;
+<a href="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" target="_blank" title="Employment Certificate"><img src="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" alt="Employment Cert" width="auto" height="100px"></a>&emsp;
 <br>
 <small><i>(PDF versions are in Files List at bottom)</i></small>
 <hr>
