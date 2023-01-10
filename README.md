@@ -85,10 +85,10 @@ I have over 19 years of experience in upper management, which included extensive
 <small><i>(PDF versions for download - see Files List at bottom)</i></small>
 <hr>
 
-<a href="https://github-readme-stats.vercel.app/api?username=vrw-GH">
+<a href="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=compact&theme=vision-friendly-dark">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=compact&theme=vision-friendly-dark" />
 </a>
 
