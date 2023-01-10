@@ -63,7 +63,7 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign2"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="UoM WebDesign2" width="auto" height="100px"></a>&emsp;
 <a href="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" target="_blank" title="UoM WebDesign1"><img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Web_Design_for_Beginners_E-Certificate.jpg?raw=true" alt="UoM WebDesign1" width="auto" height="100px"></a>&emsp;
 <br>
-<i>(PDF versions are in Files List at bottom)</i>
+<small><i>(PDF versions are in Files List at bottom)</i></small>
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
 <button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="Share My Food">
