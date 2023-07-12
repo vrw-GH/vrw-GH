@@ -55,14 +55,16 @@
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <hr/>
 <h3>♦ Some Highlighted Projects :-</h3>
+<button><a href="https://vrw-gh.github.io/jfalanka/" target="_blank" title="JFA Lanka Home Page (Live site)">
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/jfalanka/Screenshot.png" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank" title="Share My Food">
-    <img src="https://raw.githubusercontent.com/vrw-GH/final-project-wd020/0f30e27180ba56cd0ae5abcd38c6e77f99c52aac/project%20basics/Screenshot%20(252).png" height="100"></a></button>
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/share-my-food/Screenshot.png" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank" title="Backend API for ShareMyFood">
-    <img src="https://vrw-gh.github.io/sharemyfood-backend/public/Screenshot.png?raw=true" height="100"></a></button>
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/share-my-food/Screenshot2.png" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/sanskara/" target="_blank" title="Sanskara Front End (with Email-home)">
-    <img src="https://github.com/vrw-GH/sanskara/raw/main/project-basics/Screenshot.png?raw=true" height="100"></a></button>
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/sanskara/Screenshot.png" height="100"></a></button>
 <button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank" title="My Hacker News (Coding project)">
-    <img src="https://vrw-gh.github.io/hacker-news/assets/Screenshot1.png" height="100"></a></button>
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/hacker-news/Screenshot.png" height="100"></a></button>
 <br>
 <strong>More Sample Projects: </strong>
 <br>
