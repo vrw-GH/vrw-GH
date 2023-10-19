@@ -36,13 +36,13 @@
         <img  src="https://www.svgrepo.com/download/354180/php.svg" alt="Angular" height="50" />
         <br>
         <p style="padding-bottom: 0;">
-            Modus Operandi: &nbsp;<strong style="font-size: 2rem">P. E. R. N.</strong>
+            Modus Operandi: &nbsp;<strong style="font-size: 2rem">P.&nbsp;E.&nbsp;R.&nbsp;N.</strong>
             <br>
-            <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider 😉</small></i>
+            <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider&nbsp;😉</small></i>
         </P>
     </div>
     <p style="margin: 5px 3vw 20px;">
-    <code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...</code>
+    <code>Happily Googling: AI&nbsp;~&nbsp;Web3&nbsp;~ Metaverse&nbsp;~&nbsp;Robots&nbsp;~ Space&nbsp;~ Gadgets&nbsp;...</code>
     </p>
 </div>
 <ul style="margin: 20px 5vw 20px 8vw;">
