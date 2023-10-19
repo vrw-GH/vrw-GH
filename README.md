@@ -55,7 +55,7 @@
 </ul>
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience.
 <hr/>
-<h3>♦ Some Highlighted Projects :-</h3>
+<h3>♦ Some Highlighted Projects</h3>
 <button><a href="https://vrw-gh.github.io/drmuellers1969/" target="_blank" title="Dr. Muellers 1969">
     <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/drmuellers1969/Screenshot.png" width=100 height=80></a></button>
 <button><a href="https://vrw-gh.github.io/jfalanka/" target="_blank" title="JFA Lanka Home Page">
