@@ -1,3 +1,6 @@
+# Full Stack App & Web Developer
+
+<i style="color: lightgreen"> ...pushing the limits of the digital world!</i>
 <div id="badges" align="center" style="margin:0, padding:0">
   <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
     <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,12 +12,8 @@
     <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white" alt="Outlook"/>
   </a>
 </div>
-
-# Full Stack App & Web Developer
-
-<i style="color: lightgreen"> ...pushing the limits of the digital world!</i>
-
-<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
+<br>
+<div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
         <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
@@ -41,10 +40,12 @@
             <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider 😉</small></i>
         </P>
     </div>
-    <p><code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...</code>
+    <p style="margin: 5px 3vw 20px;">
+    <code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...
+    </code>
     </p>
 </div>
-<ul style="margin: 20px 10% 20px 10%;">
+<ul style="margin: 20px 5vw 20px 8vw;">
     <li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
     <li>BackEnd: Node.js, Express.js</li>
     <li>Databases: MySQL/PostgreSQL, MongoDB</li>
