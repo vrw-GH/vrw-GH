@@ -66,7 +66,7 @@ I have over 19 years of experience in upper management, which included extensive
 <button><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank" title="Backend API for ShareMyFood">
     <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/share-my-food/Screenshot2.png" width=100 height=80></a></button>
 <button><a href="https://vrw-gh.github.io/WD-Home/" target="_blank" title="Wrights-Desk (Personal Site)">
-    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/wrightsdesk/Screenshot.png" width=100 height=80></a></button>
+    <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/WD-home/Screenshot.png" width=100 height=80></a></button>
 <button><a href="https://vrw-gh.github.io/hacker-news/" target="_blank" title="My Hacker News (Coding project)">
     <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/hacker-news/Screenshot.png" width=100 height=80></a></button>
 <br>
@@ -98,11 +98,4 @@ I have over 19 years of experience in upper management, which included extensive
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&layout=default&theme=vision-friendly-dark" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px" />
 </a>
-
-Go to:
-<a href="https://vrw-gh.github.io/vrw-GH/" target="_blank" title="https://vrw-gh.github.io/vrw-GH/">
-    <button>GH Profile Page</button>
-</a> &nbsp;•&nbsp;
-<a href="https://github.com/vrw-GH" target="_blank" title="https://github.com/vrw-GH">
-    <button>On GitHub</button>
-</a>
+<br>
