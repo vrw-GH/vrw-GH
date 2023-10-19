@@ -5,9 +5,11 @@
   <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
     <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &emsp;
   <a href="mailto:victor.wright@outlook.de" target="_blank">
     <img src="https://img.shields.io/badge/Email-lightblue?logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
+  &emsp;
   <a href="tel:+49-176-46774278" target="_blank">
     <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white" alt="Outlook"/>
   </a>
@@ -41,8 +43,7 @@
         </P>
     </div>
     <p style="margin: 5px 3vw 20px;">
-    <code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...
-    </code>
+    <code>Happily Googling: AI ~ Web3 ~ Metaverse ~ Robots ~ Space ~ Gadgets ...</code>
     </p>
 </div>
 <ul style="margin: 20px 5vw 20px 8vw;">
