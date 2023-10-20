@@ -1,6 +1,6 @@
 # [Full Stack App & Web Developer](https://vrw-gh.github.io/vrw-GH/ "View My Page")
 
-<i style="color: lightgreen"> ...pushing the limits of the digital world!</i>
+<i style="color: darkgreen; font-size: 1.2em; text-shadow: 2px 2px 2px 2px white;"><b> ...pushing the limits of the digital world!</b></i>
 <div id="badges" align="center" style="margin:0, padding:0">
   <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
     <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
