@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   &emsp;
   <a href="mailto:victor.wright@outlook.de" target="_blank">
-    <img src="https://img.shields.io/badge/Email-lightblue?logo=microsoftoutlook&logoColor=white" alt="Outlook Email"/></a>
+    <img src="https://img.shields.io/badge/Email-magenta?logo=microsoftoutlook&logoColor=white" alt="Outlook Email"/></a>
   &emsp;
   <a href="tel:+49-176-46774278" target="_blank">
-    <img src="https://img.shields.io/badge/📲%20Germany:%20176%204677%204278-red?logoColor=white" alt="Mobile Phone"/></a>
+    <img src="https://img.shields.io/badge/📞%20(Germany)%200176%204677%204278-cyan" alt="Mobile Phone"/></a>
 </div>
 <div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
