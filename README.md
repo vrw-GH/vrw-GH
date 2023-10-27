@@ -48,7 +48,7 @@
 * Databases: MySQL/PostgreSQL, MongoDB
 * Other: Git/GitHub, Figma, Scrum
 * Other Technologies: PHP, AJAX, jQuery, Angular, Visual FoxPro, Visual Basic
-* Methodologies: Object Oriented Programming, Unified Modeling Language, </
+* Methodologies: Object Oriented Programming, Unified Modeling Language
 
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience
 
@@ -96,10 +96,6 @@ I have over 19 years of experience in upper management, which included extensive
 
 ---
 
-<div align="center">
-
 ![https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true)
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark)
-
-</div>
