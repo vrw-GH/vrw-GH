@@ -1,16 +1,18 @@
 # [Full Stack App & Web Developer](https://vrw-gh.github.io/vrw-GH/ "View My Page")
 
-<i style="color: darkgreen; font-size: 1.2em; text-shadow: 2px 2px 2px 2px white;"><b> ...pushing the limits of the digital world!</b></i>
-<div id="badges" align="center" style="margin:0, padding:0">
-  <a href="https://www.linkedin.com/in/victor-r-wright/" target="_blank">
-    <img src="https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  &emsp;
-  <a href="mailto:victor.wright@outlook.de" target="_blank">
-    <img src="https://img.shields.io/badge/Email-magenta?logo=microsoftoutlook&logoColor=white" alt="Outlook Email"/></a>
-  &emsp;
-  <a href="tel:+49-176-46774278" target="_blank">
-    <img src="https://img.shields.io/badge/📞%20(Germany)%200176%204677%204278-cyan" alt="Mobile Phone"/></a>
+<div style="align: right; color: darkgreen; font: bold italic 1.2em/1 cursive; text-shadow: 2px 2px 2px 2px white;">🚀 ...pushing the limits of the digital world!</div>
+<br>
+<div align="center">
+
+![WhatsApp Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen&link=https%3A%2F%2Fwa.me%2F%2B4917646774278/ "Whatsapp Me")&emsp;
+![Mobile Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan&link=tel%3A%2B4917646774278 "Call my mobile")&emsp;
+![Email Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta&link=mailto%3Avictor.wright%40outlook.de "Click to Email")
+
+![Linkedin Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-r-wright%2F "My Linkedin profile")&emsp;
+![WrightsDesk Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue&link=https%3A%2F%2Fwww.wrightsdesk.com "visit the WrightsDesk Website")
+
 </div>
+
 <div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
@@ -43,12 +45,12 @@
     </p>
 </div>
 
-* FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap
-* BackEnd: Node.js, Express.js
-* Databases: MySQL/PostgreSQL, MongoDB
-* Other: Git/GitHub, Figma, Scrum
-* Other Technologies: PHP, AJAX, jQuery, Angular, Visual FoxPro, Visual Basic
-* Methodologies: Object Oriented Programming, Unified Modeling Language
+- FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap
+- BackEnd: Node.js, Express.js
+- Databases: MySQL/PostgreSQL, MongoDB
+- Other: Git/GitHub, Figma, Scrum
+- Other Technologies: PHP, AJAX, jQuery, Angular, Visual FoxPro, Visual Basic
+- Methodologies: Object Oriented Programming, Unified Modeling Language
 
 I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience
 
