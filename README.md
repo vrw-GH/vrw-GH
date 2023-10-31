@@ -4,15 +4,13 @@
 <br>
 <div align="center">
 
-![WhatsApp Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen&link=https%3A%2F%2Fwa.me%2F%2B4917646774278/ "Whatsapp Me")&emsp;
-![Mobile Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan&link=tel%3A%2B4917646774278 "Call my mobile")&emsp;
-![Email Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta&link=mailto%3Avictor.wright%40outlook.de "Click to Email")
-
-![Linkedin Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-r-wright%2F "My Linkedin profile")&emsp;
-![WrightsDesk Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue&link=https%3A%2F%2Fwww.wrightsdesk.com "visit the WrightsDesk Website")
+![Static Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen&link=https%3A%2F%2Fwa.me%2F%2B4917646774278/ "Whatsapp Me")&emsp;
+![Static Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan&link=tel%3A%2B4917646774278 "Call my mobile")&emsp;
+![Static Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta&link=mailto%3Avictor.wright%40outlook.de "Click to Email")&emsp;
+![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-r-wright%2F "My Linkedin profile")&emsp;
+![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue&link=https%3A%2F%2Fwww.wrightsdesk.com "visit the WrightsDesk Website")
 
 </div>
-
 <div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
