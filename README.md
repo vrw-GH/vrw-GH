@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
 [![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
 
-<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 800px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
+<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 400px; margin: 0 auto; text-align: center; justify-content: center; background: linear-gradient(30deg,  #02500290 20%,#FF8826E1 40%, #41F841 80%); border-radius: 10px 10px 50% 50% / 10px 10px 100px 100px; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
         <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
@@ -35,7 +35,7 @@
             <i style="padding-top: 0;"><small>» » » soon to be a full Dragonrider</small></i>&nbsp;😉
         </P>
     </div>
-    <p style="margin: 5px 3vw 20px;">
+    <p style="margin: 5px 4rem 3rem; color:black">
     <code>Happily Googling: AI&nbsp;~&nbsp;Web3&nbsp;~ Metaverse&nbsp;~&nbsp;Robots&nbsp;~ Space&nbsp;~ Gadgets&nbsp;...</code>
     </p>
 </div>
@@ -55,11 +55,11 @@
 >- IT Support, Web/Email Hosting service provider
 >- Web maintenance (PHP/Wordpress)
 >- MS Windows, PC, Software, Hardware and LAN/WiFi installation, setup, support, and troubleshooting.
->- English writing/proofing
->- Graphics designing & artworks
 >- Advanced skills in MS-Excel (and many other softwares)
+>- Graphics designing & artworks
+>- English writing/proofing
 >
->***I have also been in upper management since 2020 as General Manager / IT Manager for solar energy company in Sri Lanka***
+>***I have also experience in upper management since 2001, as General Manager & IT Manager for a solar energy company in Sri Lanka***
 
 ---
 
