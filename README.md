@@ -4,6 +4,8 @@
 <br>
 <div align="center">
 
+[![](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen/)](https://wa.me/+4917646774278 "Whatsapp Me")&emsp;
+
 ![Static Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen&link=https%3A%2F%2Fwa.me%2F%2B4917646774278/ "Whatsapp Me")&emsp;
 ![Static Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan&link=tel%3A%2B4917646774278 "Call my mobile")&emsp;
 ![Static Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta&link=mailto%3Avictor.wright%40outlook.de "Click to Email")&emsp;
