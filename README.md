@@ -3,10 +3,10 @@
 <div style="align: right; color: darkgreen; font: bold italic 1.2em/1 cursive; text-shadow: 2px 2px 2px 2px white; margin-bottom: 1rem;">🚀 ...pushing the limits of the digital world!</div>
 
 [![Static Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen/)](https://wa.me/+4917646774278 "Whatsapp Me")&emsp;
-[![Static Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan/)](tel%3A%2B4917646774278 "Call my mobile")&emsp;
-[![Static Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta/)](mailto%3Avictor.wright%40outlook.de "Click to Email")&emsp;
-[![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-r-wright%2F "Finde me on Linkedin")&emsp;
-[![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https%3A%2F%2Fwww.wrightsdesk.com "visit the WrightsDesk Website")&emsp;
+[![Static Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan/)](tel:+4917646774278 "Call my mobile")&emsp;
+[![Static Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta/)](mailto:victor.wright@outlook.de "Click to Email")&emsp;
+[![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
+[![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
 
 <div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
@@ -96,5 +96,3 @@ I have over 19 years of experience in upper management, which included extensive
 ![https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true)
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark)
-
-[![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https%3A%2F%2Fwww.wrightsdesk.com "visit the WrightsDesk Website")
