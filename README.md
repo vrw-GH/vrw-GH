@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
 [![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
 
-<div style="display: flex; flex-wrap: wrap; width: 70vw; max-width: 700px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
+<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 800px; margin: 0 auto; text-align: center; justify-content: center; background-color: rgb(220, 240, 220); border-radius: 10px 10px 20% 20%; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
         <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
         <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
@@ -40,14 +40,26 @@
     </p>
 </div>
 
-- FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap
-- BackEnd: Node.js, Express.js
-- Databases: MySQL/PostgreSQL, MongoDB
-- Other: Git/GitHub, Figma, Scrum
-- Other Technologies: PHP, AJAX, jQuery, Angular, Visual FoxPro, Visual Basic
-- Methodologies: Object Oriented Programming, Unified Modeling Language
-
-I have over 19 years of experience in upper management, which included extensive IT support services, Web Hosting, English writing/proofing, designing & artworks, and advanced skills in MS-Excel and other software; the MS Windows operating system; intermediate networking, hardware and LAN/WiFi experience
+>**Currently engaged in Freelance Web Development**
+>
+>- FrontEnd: Javascript/React, HTML5/CSS3, Bootstrap, Single Page Apps, Responsive Web Designing
+>- BackEnd: Node.js, Express.js, PHP
+>- Databases: MySQL/PostgreSQL, MongoDB
+>- Other: Git/GitHub, Figma, Scrum
+>- Support Tech: AJAX, jQuery, Angular
+>- Extras: Wordpress, Visual FoxPro, Visual Basic
+>- Methodologies: Object Oriented Programming, Unified Modeling Language
+>
+>**Additionally having many years experience in:**
+>
+>- IT Support, Web/Email Hosting service provider
+>- Web maintenance (PHP/Wordpress)
+>- MS Windows, PC, Software, Hardware and LAN/WiFi installation, setup, support, and troubleshooting.
+>- English writing/proofing
+>- Graphics designing & artworks
+>- Advanced skills in MS-Excel (and many other softwares)
+>
+>***I have also been in upper management since 2020 as General Manager / IT Manager for solar energy company in Sri Lanka***
 
 ---
 
@@ -71,11 +83,11 @@ I have over 19 years of experience in upper management, which included extensive
 
 ### More Sample Projects
 
-<button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>&nbsp; ♠ &nbsp;
-<button style="padding: 10px"><a href="https://vrw-gh.github.io/my-php-root/" target="_blank">My PHP Root</a></button>&nbsp; ♠ &nbsp;
-<button style="padding: 10px"><a href="https://vrw-gh.github.io/UOM/" target="_blank">University CourseWork</a></button>&nbsp; ♠ &nbsp;
-<button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>&nbsp; ♠ &nbsp;
-<button style="padding: 10px"><a href="https://vrw-gh.github.io/jfa-pi-cms/" target="_blank">JFA PI & CMS (Excel365)</a></button>&nbsp; ♠ &nbsp;
+<button style="padding: 10px"><a href="https://vrw-gh.github.io/php-emailer/" target="_blank">PHP Emailer API</a></button>&nbsp; ∞ &nbsp;
+<button style="padding: 10px"><a href="https://vrw-gh.github.io/my-php-root/" target="_blank">My PHP Root</a></button>&nbsp; ∞ &nbsp;
+<button style="padding: 10px"><a href="https://vrw-gh.github.io/UOM/" target="_blank">University CourseWork</a></button>&nbsp; ∞ &nbsp;
+<button style="padding: 10px"><a href="https://vrw-gh.github.io/php-p2/" target="_blank">PHP-2 File Uploading</a></button>&nbsp; ∞ &nbsp;
+<button style="padding: 10px"><a href="https://vrw-gh.github.io/jfa-pi-cms/" target="_blank">JFA PI & CMS (Excel365)</a></button>&nbsp; ∞ &nbsp;
 <button style="padding: 10px"><a href="https://vrw-gh.github.io/BOILERPLATES/" target="_blank">App Boilerplates</a></button>
 
 ---
