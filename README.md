@@ -8,26 +8,28 @@
 [![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
 [![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
 
-<div style="display: flex; flex-wrap: wrap; width: 80vw; max-width: 400px; margin: 0 auto; text-align: center; justify-content: center; background: linear-gradient(30deg,  #02500290 20%,#FF8826E1 40%, #41F841 80%); border-radius: 10px 10px 50% 50% / 10px 10px 100px 100px; color: darkgreen;">
+<div style="display: flex; flex-wrap: wrap; width: 85vw; max-width: 500px; margin: 0 auto; text-align: center; justify-content: center; background: linear-gradient(30deg,  #02500290 20%,#FF8826E1 40%, #41F841 80%); border-radius: 10px 10px 50% 50% / 10px 10px 100px 100px; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
-        <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" height="50" />
-        <img  src="https://www.svgrepo.com/download/378490/bootstrap-fill.svg" alt="Bootstrap" height="50" />
-        <img  src="https://www.svgrepo.com/download/452185/css-3.svg" alt="CSS3" height="50" />
-        <img  src="https://www.svgrepo.com/download/452228/html-5.svg" alt="HTML5" height="50" />
-        <img  src="https://www.svgrepo.com/download/349419/javascript.svg" alt="JavaScript" height="50" />
-        <img src="https://www.svgrepo.com/download/349540/typescript.svg" alt="TypeScript" height="50" />
-        <img  src="https://www.svgrepo.com/download/303251/mysql-logo.svg" alt="MySQL" height="50" />
-        <img src="https://www.svgrepo.com/download/439231/mongodb.svg" alt="MongoDB" height="50" />
-        <img src="https://www.svgrepo.com/download/439268/postgresql.svg" alt="PostgreSQL" height="50" />
-        <img  src="https://www.svgrepo.com/download/376337/node-js.svg" alt="Node.js" height="50" />
-        <img  src="https://www.svgrepo.com/download/353724/express.svg" alt="Express.js" height="50" />
-        <img src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" height="50" />
-        <img src="https://www.svgrepo.com/download/452147/adobe-illustrator.svg" alt="Illustrator" height="50" />
-        <img  src="https://www.svgrepo.com/download/373968/photoshop.svg" alt="Photoshop" height="50" />
-        <img  src="https://www.svgrepo.com/download/448222/figma.svg" alt="Figma" height="50" />
-        <img  src="https://www.svgrepo.com/download/349568/wordpress.svg" alt="WordPress" height="50" />
-        <img  src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="Angular" height="50" />
-        <img  src="https://www.svgrepo.com/download/354180/php.svg" alt="PHP" height="50" />
+        <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" title="React" height="50" />
+        <img  src="https://www.svgrepo.com/download/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50" />
+        <img  src="https://www.svgrepo.com/download/452185/css-3.svg" alt="CSS3" title="CSS3" height="50" />
+        <img  src="https://www.svgrepo.com/download/452228/html-5.svg" alt="HTML5" title="HTML5" height="50" />
+        <img  src="https://www.svgrepo.com/download/349419/javascript.svg" alt="JavaScript" title="Javascript" height="50" />
+        <img src="https://www.svgrepo.com/download/349540/typescript.svg" alt="TypeScript" title="Typescript" height="50" />
+        <img  src="https://www.svgrepo.com/download/439233/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+        <img src="https://www.svgrepo.com/download/439231/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+        <img src="https://www.svgrepo.com/download/373711/json2.svg" alt="JSON" title="JSON" height="50" />
+        <img src="https://www.svgrepo.com/download/439268/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
+        <img  src="https://www.svgrepo.com/download/378837/node.svg" alt="Node.js" title="Node" height="50" />
+        <img  src="https://www.svgrepo.com/download/353724/express.svg" alt="Express.js" title="Express" height="50" />
+        <img  src="https://www.svgrepo.com/download/354528/vue.svg" alt="Vue.js" title="Vue" height="50" />
+        <img src="https://www.svgrepo.com/download/475654/github-color.svg" alt="Git" title="Git/GitHub" height="50" />
+        <img src="https://www.svgrepo.com/download/452147/adobe-illustrator.svg" alt="Illustrator" title="Adobe Illustrator" height="50" />
+        <img  src="https://www.svgrepo.com/download/373968/photoshop.svg" alt="Photoshop" title="Adobe Photoshop" height="50" />
+        <img  src="https://www.svgrepo.com/download/448222/figma.svg" alt="Figma" title="Figma" height="50" />
+        <img  src="https://www.svgrepo.com/download/349568/wordpress.svg" alt="WordPress" title="WordPress" height="50" />
+        <img  src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="Angular" title="Angular" height="50" />
+        <img  src="https://www.svgrepo.com/download/354180/php.svg" alt="PHP" title="PHP8" height="50" />
         <br>
         <p style="padding-bottom: 0;">
             Modus Operandi: &nbsp;<strong style="font-size: 2rem">P.&nbsp;E.&nbsp;R.&nbsp;N.</strong>
@@ -36,21 +38,21 @@
         </P>
     </div>
     <p style="margin: 5px 4rem 3rem; color:black">
-    <code>Happily Googling: AI&nbsp;~&nbsp;Web3&nbsp;~ Metaverse&nbsp;~&nbsp;Robots&nbsp;~ Space&nbsp;~ Gadgets&nbsp;...</code>
+    <code>AI&nbsp;~&nbsp;Web3&nbsp;~ Metaverse&nbsp;~&nbsp;Robots&nbsp;~ Space&nbsp;~ Gadgets&nbsp;...</code>
     </p>
 </div>
 
 >**Currently engaged in Freelance Web Development**
 >
->- FrontEnd: Javascript/React, HTML5/CSS3, Bootstrap, Single Page Apps, Responsive Web Designing
->- BackEnd: Node.js, Express.js, PHP
+>- FrontEnd: Javascript/React, HTML5/CSS3, Vue, Bootstrap, Single Page Apps, Responsive Designs
+>- BackEnd: Node.js/Express, PHP, RESTful API (JSON)
 >- Databases: MySQL/PostgreSQL, MongoDB
->- Other: Git/GitHub, Figma, Scrum
->- Support Tech: AJAX, jQuery, Angular
->- Extras: Wordpress, Visual FoxPro, Visual Basic
+>- Other: Git/GitHub, Figma, Jira
+>- Support Tech: Wordpress, AJAX, jQuery, Angular
+>- Other: C++, Visual FoxPro, Visual Basic
 >- Methodologies: Object Oriented Programming, Unified Modeling Language
 >
->**Additionally having many years experience in:**
+>**Additional experience in:**
 >
 >- IT Support, Web/Email Hosting service provider
 >- Web maintenance (PHP/Wordpress)
