@@ -38,28 +38,30 @@
         </P>
     </div>
     <p style="margin: 5px 4rem 3rem; color:black">
-    <code>AI&nbsp;~&nbsp;Web3&nbsp;~ Metaverse&nbsp;~&nbsp;Robots&nbsp;~ Space&nbsp;~ Gadgets&nbsp;...</code>
+    <code>AI&nbsp;|&nbsp;Web3&nbsp;| Metaverse&nbsp;|&nbsp;Robots&nbsp;| Space |&nbsp;Gadgets&nbsp;...</code>
     </p>
 </div>
 
 >**Currently engaged in Freelance Web Development**
 >
->- FrontEnd: Javascript/React, HTML5/CSS3, Vue, Bootstrap, Single Page Apps, Responsive Designs
->- BackEnd: Node.js/Express, PHP, RESTful API (JSON)
->- Databases: MySQL/PostgreSQL, MongoDB
->- Other: Git/GitHub, Figma, Jira
->- Support Tech: Wordpress, AJAX, jQuery, Angular
->- Other: C++, Visual FoxPro, Visual Basic
+>- FrontEnd: Javascript/React◑, HTML5/CSS3◕, Vue◔, Bootstrap◔, Single Page Apps, Responsive Designs
+>- BackEnd: Node.js/Express◑, PHP◑, RESTful API (JSON)◔
+>- Databases: MySQL/PostgreSQL◑, MongoDB◔
+>- Other: Git/GitHub◑, Figma◔, Jira◔
+>- Additional Tech: Wordpress◕, AJAX◔, jQuery◔, Angular◔
+>- Other: Visual FoxPro◕, Visual Basic
 >- Methodologies: Object Oriented Programming, Unified Modeling Language
 >
->**Additional experience in:**
+>**Additional Experience in:**
 >
->- IT Support, Web/Email Hosting service provider
->- Web maintenance (PHP/Wordpress)
->- MS Windows, PC, Software, Hardware and LAN/WiFi installation, setup, support, and troubleshooting.
+>- Web/Email Hosting service provider
+>- Web maintenance (PHP/Wordpress/Apache)
+>- MS Windows, MS Office365
 >- Advanced skills in MS-Excel (and many other softwares)
->- Graphics designing & artworks
+>- Setup, support and troubleshooting PC and Softwares
+>- Hardware and LAN/WiFi installation, Router Configuration
 >- English writing/proofing
+>- Graphics designing & artworks (CorelDraw/AI/Canva)
 >
 >***I have also experience in upper management since 2001, as General Manager & IT Manager for a solar energy company in Sri Lanka***
 
