@@ -42,10 +42,12 @@
     </p>
 </div>
 
->**Currently engaged in Freelance Web Development**
+---
+
+> **Currently engaged in Freelance Web Development**
 >
+>- Single Page Apps, Responsive Designs
 >- FrontEnd: Javascript/React◑, HTML5/CSS3◕, Vue◔, Bootstrap◔
-> Single Page Apps, Responsive Designs
 >- BackEnd: Node.js/Express◑, PHP◑, RESTful API (JSON)◔
 >- Databases: MySQL/PostgreSQL◑, MongoDB◔
 >- Other: Git/GitHub◑, Figma◔, Jira◔
@@ -53,7 +55,7 @@
 >- Other: Visual FoxPro◕
 >- Methodologies: Object Oriented Programming, Unified Modeling Language
 >
->**Additional Experience in:**
+> **Additional Experience in:**
 >
 >- Web/Email Hosting service provider
 >- Web maintenance (PHP/Wordpress/Apache)
@@ -64,7 +66,7 @@
 >- English writing/proofing
 >- Graphics designing & artworks (CorelDraw/Photoshop/Canva)
 >
->***I have also experience in upper management since 2001, as General Manager & IT Manager for a solar energy company in Sri Lanka***
+> ***I have also experience in upper management since 2001, as General Manager & IT Manager for a solar energy company in Sri Lanka***
 
 ---
 
