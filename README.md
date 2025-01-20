@@ -99,7 +99,7 @@
 
 ---
 
-## ♦ Some Important Documents <small><small><i>(Also see "Downloads" in footer)</i></small></small>
+## ♦ Some Important Documents <small><small><i>("Downloads" available in page footer)</i></small></small>
 
 [<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Resumè" width="300px" height="auto">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true "Curriculum Vitae")
 
@@ -107,16 +107,16 @@
 <br>
 
 <b>Additional Certifications </b>:<br>
-• [Docker](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Alison-Learner-Verification_Docker.pdf?raw=true)
-• [C++](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/W3Schools-Cert_c++.pdf?raw=true)
-• [CSS Media Queries](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Advanced-CSS-Media-Queries.pdf?raw=true)
-• [OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Programming-Foundations-ObjectOriented-Design.pdf?raw=true)
-• [TypeScript](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-Essential-Training.pdf)
-• [TS OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-ObjectOriented-Programming.pdf?raw=true)
-• [Heroku](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Deploy-with-Netlify-and-Heroku.pdf?raw=true)
-• [JS Errors](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Debug-JScript-Errors.pdf?raw=true)
-• [React Router](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Learn-React-Router.pdf?raw=true)
-• [Jira](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Learning-Jira-Software.pdf?raw=true)
+• [Docker](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Alison-Learner-Verification_Docker.jpg?raw=true)
+• [C++](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/W3Schools-Cert_c++.jpg?raw=true)
+• [CSS Media Queries](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Advanced-CSS-Media-Queries.jpg?raw=true)
+• [OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Programming-Foundations-ObjectOriented-Design.jpg?raw=true)
+• [TypeScript](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-Essential-Training.jpg)
+• [TS OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-ObjectOriented-Programming.jpg?raw=true)
+• [Heroku](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Deploy-with-Netlify-and-Heroku.jpg?raw=true)
+• [JS Errors](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Debug-JScript-Errors.jpg?raw=true)
+• [React Router](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Learn-React-Router.jpg?raw=true)
+• [Jira](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Learning-Jira-Software.jpg?raw=true)
 
 ---
 
