@@ -99,20 +99,27 @@
 
 ---
 
-## ♦ Documents & Certificates
+## ♦ Some Important Documents <small><small><i>(Also see "Downloads" in footer)</i></small></small>
 
-<small><i>(PDF versions for download - see Files List at bottom)</i></small>
+[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Resumè" width="300px" height="auto">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true "Curriculum Vitae")
 
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/resume/cv_vw-en.jpg?raw=true "Curriculum Vitae")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor_Wright-Recommendation_letter.jpg?raw=true "Letter of Recommendation")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true "Graduation Certificate - WBS Coding School")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Front-End_Web_Development_E-Certificate.jpg?raw=true "Front End Web Dev (University of Moratuwa)")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint_Cert-Fundementals_of_PHP.jpg?raw=true "Fundementals of PHP")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/certificate_of_completion_c++.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/certificate_of_completion_c++.jpg?raw=true "C++ Certification")
-[<img src="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" alt="Employment Cert" width="auto" height="100px">](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true "JFA Employment Certificate")
+[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true" alt="WBS Certificate" width="30%" height="auto">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/WBS-certificate_FS_Web_%26_App_Dev.jpg?raw=true "Graduation Certificate - WBS Coding School")[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/UOM-Cert_Front-End-Web-Development.jpg?raw=true" alt="Web Dev Certificate" width="30%" height="auto">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/UOM-Cert_Front-End-Web-Development.jpg?raw=true "Front End Web Dev (University of Moratuwa)")[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint-Cert_Fundementals-of-PHP.jpg?raw=true" alt="PHP Certificate" width="30%" height="auto">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/TutorialsPoint-Cert_Fundementals-of-PHP.jpg?raw=true "Fundementals of PHP")
+
+[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor-Wright_Recommendation-letter.jpg?raw=true" alt="Recommendation Letter" width="auto" height="100px">](https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/certificates/Victor-Wright_Recommendation-letter.jpg?raw=true "Letter of Recommendation")[<img src="https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true" alt="Employment Certificate" width="auto" height="100px">](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/JFA_Emp-Certificate.jpg?raw=true "JFA Employment Certificate")
+<br>
+
+<b>Additional Certifications </b>:<br>
+• [Docker](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Alison-Learner-Verification_Docker.pdf?raw=true)
+• [C++](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/W3Schools-Cert_c++.pdf?raw=true)
+• [CSS Media Queries](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Advanced-CSS-Media-Queries.pdf?raw=true)
+• [OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Programming-Foundations-ObjectOriented-Design.pdf?raw=true)
+• [TypeScript](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-Essential-Training.pdf)
+• [TS OOP](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_TypeScript-ObjectOriented-Programming.pdf?raw=true)
+• [Heroku](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Deploy-with-Netlify-and-Heroku.pdf?raw=true)
+• [JS Errors](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Debug-JScript-Errors.pdf?raw=true)
+• [React Router](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/Codecademy-Cert_Learn-React-Router.pdf?raw=true)
+• [Jira](https://github.com/vrw-GH/vrw-GH/raw/main/certificates/LinkedIn-Cert_Learning-Jira-Software.pdf?raw=true)
 
 ---
 
-![https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true)
-
-![https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark)
+![https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api?username=vrw-GH&count_private=true&show_icons=true) ![https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark&hide_title=true&card_width=300px](https://github-readme-stats.vercel.app/api/top-langs/?username=vrw-GH&langs_count=10&hide=Hack,Batchfile&layout=compact&theme=vision-friendly-dark)
