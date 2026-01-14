@@ -1,7 +1,7 @@
 # AppsWatch
 
 [<img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/appsWatch/Screenshot.png" alt="screenshot" width="95%">](http:# "await link..")
-[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/pub-media/repo-docs/appsWatch/Screenshot.png" alt="screenshot" width="95%">](http:# "await link..")
+[<img src="https://raw.githubusercontent.com/vrw-GH/vrw-GH/main/pub-media/repo-docs/appsWatch/Screenshot2.png" alt="screenshot" width="95%">](http:# "await link..")
 
 Another Project by **Victor Wright** @ [WrightsDesk](https://www.wrightsdesk.com)
 
