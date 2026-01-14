@@ -2,34 +2,34 @@
 
 <div style="align: right; color: darkgreen; font: bold italic 1.2em/1 cursive; text-shadow: 2px 2px 2px 2px white; margin-bottom: 1rem;">🚀 ...pushing the limits of the digital world!</div>
 
-[![Static Badge](https://img.shields.io/badge/017646774278-darkgreen?logo=whatsapp&logoColor=white&labelColor=darkgreen/)](https://wa.me/+4917646774278 "Whatsapp Me")&emsp;
-[![Static Badge](https://img.shields.io/badge/%2B49%20176%204677%204278-cyan?label=%F0%9F%93%9E&logoColor=white&labelColor=cyan/)](tel:+4917646774278 "Call my mobile")&emsp;
-[![Static Badge](https://img.shields.io/badge/victor.wright%40outlook.de-magenta?logo=microsoftoutlook&logoColor=white&labelColor=magenta/)](mailto:victor.wright@outlook.de "Click to Email")&emsp;
-[![Static Badge](https://img.shields.io/badge/Victor%20Wright-blue?logo=linkedin&logoColor=white&labelColor=blue/)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
-[![Static Badge](https://img.shields.io/badge/-Wrights%20Desk-black?label=%F0%9F%95%B8&labelColor=darkblue/)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
+[![Static Badge](https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/whatsapp-me.svg)](https://wa.me/+4917646774278 "Whatsapp Me")&emsp;
+[![Static Badge](https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/phone-me.svg)](tel:+4917646774278 "Call my mobile")&emsp;
+[![Static Badge](https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/email-me.svg)](mailto:victor.wright@outlook.de "Click to Email")&emsp;
+[![Static Badge](https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/linkedin-me.svg)](https://www.linkedin.com/in/victor-r-wright/ "Finde me on Linkedin")&emsp;
+[![Static Badge](https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/website-me.svg)](https://www.wrightsdesk.com/ "visit the WrightsDesk Website")&emsp;
 
 <div style="display: flex; flex-wrap: wrap; width: 85vw; max-width: 500px; margin: 0 auto; text-align: center; justify-content: center; background: linear-gradient(30deg,  #02500290 20%,#FF8826E1 40%, #41F841 80%); border-radius: 10px 10px 50% 50% / 10px 10px 100px 100px; color: darkgreen;">
     <div style="max-width: 450px; justify-content: center; padding: 10px;">
-        <img src="https://www.svgrepo.com/download/439290/react.svg" alt="React" title="React" height="50" />
-        <img  src="https://www.svgrepo.com/download/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50" />
-        <img  src="https://www.svgrepo.com/download/452185/css-3.svg" alt="CSS3" title="CSS3" height="50" />
-        <img  src="https://www.svgrepo.com/download/452228/html-5.svg" alt="HTML5" title="HTML5" height="50" />
-        <img  src="https://www.svgrepo.com/download/349419/javascript.svg" alt="JavaScript" title="Javascript" height="50" />
-        <img src="https://www.svgrepo.com/download/349540/typescript.svg" alt="TypeScript" title="Typescript" height="50" />
-        <img  src="https://www.svgrepo.com/download/439233/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-        <img src="https://www.svgrepo.com/download/439231/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-        <img src="https://www.svgrepo.com/download/373711/json2.svg" alt="JSON" title="JSON" height="50" />
-        <img src="https://www.svgrepo.com/download/439268/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
-        <img  src="https://www.svgrepo.com/download/378837/node.svg" alt="Node.js" title="Node" height="50" />
-        <img  src="https://www.svgrepo.com/download/353724/express.svg" alt="Express.js" title="Express" height="50" />
-        <img  src="https://www.svgrepo.com/download/354528/vue.svg" alt="Vue.js" title="Vue" height="50" />
-        <img src="https://www.svgrepo.com/download/475654/github-color.svg" alt="Git" title="Git/GitHub" height="50" />
-        <img src="https://www.svgrepo.com/download/452147/adobe-illustrator.svg" alt="Illustrator" title="Adobe Illustrator" height="50" />
-        <img  src="https://www.svgrepo.com/download/373968/photoshop.svg" alt="Photoshop" title="Adobe Photoshop" height="50" />
-        <img  src="https://www.svgrepo.com/download/448222/figma.svg" alt="Figma" title="Figma" height="50" />
-        <img  src="https://www.svgrepo.com/download/349568/wordpress.svg" alt="WordPress" title="WordPress" height="50" />
-        <img  src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="Angular" title="Angular" height="50" />
-        <img  src="https://www.svgrepo.com/download/354180/php.svg" alt="PHP" title="PHP8" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/react.svg" alt="React" title="React" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/css3.svg" alt="CSS3" title="CSS3" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/html5.svg" alt="HTML5" title="HTML5" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/javascript.svg" alt="JavaScript" title="Javascript" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/typescript.svg" alt="TypeScript" title="Typescript" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/json.svg" alt="JSON" title="JSON" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/node.svg" alt="Node.js" title="Node" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/express.svg" alt="Express.js" title="Express" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/vue.svg" alt="Vue.js" title="Vue" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/github.svg" alt="Git" title="Git/GitHub" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/illustrator.svg" alt="Illustrator" title="Adobe Illustrator" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/photoshop.svg" alt="Photoshop" title="Adobe Photoshop" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/figma.svg" alt="Figma" title="Figma" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/wordpress.svg" alt="WordPress" title="WordPress" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/angular.svg" alt="Angular" title="Angular" height="50" />
+        <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/svgs/php.svg" alt="PHP" title="PHP8" height="50" />
         <br>
         <p style="padding-bottom: 0;">
             Modus Operandi: &nbsp;<strong style="font-size: 2rem">P.&nbsp;E.&nbsp;R.&nbsp;N.</strong>
@@ -72,6 +72,8 @@
 
 ## ♦ Some Highlighted Projects
 
+<button><a href="https://raw.githubusercontent.com/vrw-GH/pub-media/main/repo-docs/appsWatch/readme.md" target="_blank" title="AppsWatch">
+    <img src="https://raw.githubusercontent.com/vrw-GH/pub-media/main/repo-docs/appsWatch/Screenshot.png" width=100 height=80></a></button>
 <button><a href="https://vrw-gh.github.io/drmuellers1969/" target="_blank" title="Dr. Muellers 1969">
     <img src="https://raw.githubusercontent.com/vrw-GH/assets/main/repo-media/drmuellers1969/Screenshot.png" width=100 height=80></a></button>
 <button><a href="https://vrw-gh.github.io/jfalanka/" target="_blank" title="JFA Lanka Home Page">
