@@ -6,15 +6,18 @@ Hello and nice greetings from Tegernsee!
 
 Please find herewith my application for the position as a Software Developer in your team and organization.
 
-After relocating to Germany in 2020, I changed my career path as a Web and App Developer as I have been involved for many earlier years in the IT area. Currently I am working online as a freelancer. I have web-development experience in Javascript/React, Node, PHP, Wordpress, MySQL, and use GitHub.
+Since moving to Germany in 2020, I work as a freelance IT Consultant/Specialist and Web and App Developer, with a certification from WBS Coding School of Berlin.
+ 
+I have always had an avid interest in the computer field, and have been greatly involved for over 20-years in the IT area. Coding is my creative outlet and a passion. I am self-taught in many areas such as hardware, networking, hosting services, and I am always learning something new. (You can see more IT-related certifications in my git hub profile). I love the challenge of bringing logic, innovation and my experience together to build something that would be awesome! 
 
-Digital Technology has always interested me deeply, and coding is my creative outlet and a passion. I love the challenge of bringing logic, innovation and my experience together to build something that would be awesome! I would really like to be part of a great developer team, and further my career as a developer.
+I currently provide web-hosting and email services, MS-Office, Windows, and website maintenance support.
+I also have web-development experience in JavaScript/React, Node/Express, PHP, WordPress, MySQL, API's and GitHub.
 
 Please see my GitHub profile here:  https://vrw-gh.github.io/vrw-GH
 
-I have over 20 years in an IT background, having been responsible for IT services at my previous employer (in Sri Lanka) - and do still continue online support for them. I am self-taught in many areas such as hardware, networking, hosting services, and I am always learning something new. (You can see more IT-related certifications in my git hub profile).
-
 During my years in a managerial position, I have learnt to be independent, confident, and stay calm in many difficult situations, and developed good people skills. I am a logical thinker, and like deep-diving to understand and solve problems. I give attention to the small-details, and practice fault-tolerant and usability in my programming.
+
+I would really like to be part of a great developer team, and further my career as a developer. 
 
 I am a naturalized German Citizen and live in Bad-Wiessee with my German wife. Currently I am developing my B2-skills in German.
 
