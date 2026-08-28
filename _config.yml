@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 files_root: https://github.com/vrw-GH/vrw-GH/raw/main/
 file_1: resume/victor-wright_cv.pdf
-file_2: certificates/Victor-Wright_Recommendation-letter.pdf
-file_3: certificates/WBS-certificate_FS_Web_&_App_Dev.pdf
-file_4: certificates/UOM-Cert_Front-End-Web-Development.pdf
-file_5: certificates/JFA_Emp-Certificate.pdf
+file_2: certificates/Victor-Wright_WBS-RecommendationLetter.pdf
+file_3: certificates/Victor-Wright_WBS-FullStackWeb&AppDev.pdf
+file_4: certificates/Victor-Wright_UOM-FrontEndWebDevelopment.pdf
+file_5: certificates/Victor-Wright_JFA-EmpCertificate.pdf
